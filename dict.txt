@@ -1,94 +1,141 @@
 model 100 nz
 模型 100 n
+模型 50 n
 建模 50 n
 framework 100 nz
 框架 100 n
+框架 50 n
 optimization 100 nz
 优化 100 n
+优化 50 n
 training 100 nz
 训练 100 n
+训练 50 n
 database 100 nz
 数据库 100 n
+数据库 50 n
 image 100 nz
 图像 100 n
+图像 50 n
 classification 100 nz
 分类 100 n
+分类 50 n
 evaluation 100 nz
 评估 100 n
+评估 50 n
 architecture 100 nz
 架构 100 n
+架构 50 n
 platform 100 nz
 平台 100 n
+平台 50 n
 performance 100 nz
 性能 100 n
+性能 50 n
 prediction 100 nz
 预测 100 n
+预测 50 n
 algorithm 100 nz
 算法 100 n
+算法 50 n
 solution 100 nz
 解决方案 100 n
+解决方案 50 n
 方案 50 n
 intelligence 100 nz
 智能 100 n
+智能 50 n
 detection 100 nz
 检测 100 n
+检测 50 n
 chat 100 nz
 聊天 100 n
+聊天 50 n
 voice 100 nz
 语音 100 n
+语音 50 n
 visualization 100 nz
 可视化 100 n
+可视化 50 n
 retrieval 100 nz
 检索 100 n
+检索 50 n
 artificial intelligence 100 nz
 人工智能 100 n
+人工智能 50 n
 robotics 100 nz
 机器人 100 n
+机器人 50 n
 pattern 100 nz
 模式 100 n
+模式 50 n
 open source 100 nz
 开源 100 n
+开源 50 n
 deep learning 100 nz
 深度学习 100 n
 深度 50 n
 engine 100 nz
 引擎 100 n
+引擎 50 n
 data processing 100 nz
 数据处理 100 n
+数据处理 50 n
 security 100 nz
 安全性 100 n
+安全性 50 n
 monitoring 100 nz
 监控 100 n
+监控 50 n
 agent 100 nz
 代理 100 n
+代理 50 n
 vision 100 nz
 视觉 100 n
+视觉 50 n
 vector 100 nz
 向量 100 n
+向量 50 n
 protocol 100 nz
 协议 100 n
+协议 50 n
 component 100 nz
 组件 100 n
+组件 50 n
 preprocessing 100 nz
 预处理 100 n
+预处理 50 n
 modal 100 nz
 模态 100 n
+模态 50 n
 interpolation 100 nz
 插值 100 n
+插值 50 n
 indexing 100 nz
 索引 100 n
+索引 50 n
 graph 100 nz
 图形 100 n
+图形 50 n
 label 100 nz
 标签 100 n
+标签 50 n
+数据标注 50 n
+标注 50 n
+labeling 50 n
+labelling 50 n
 localization 100 nz
 定位 100 n
+定位 50 n
 linear 100 nz
 线性 100 n
+线性 50 n
 probability 100 nz
 概率 100 n
+概率 50 n
 weight 100 nz
 权重 100 n
+权重 50 n
 distance 100 nz
 距离 100 n
 accelerator 100 nz
@@ -208,6 +255,7 @@ SQL 100 nz
 sql 50 n
 PostgreSQL 100 nz
 Claude 100 nz
+克劳德 100 n
 Regression 100 nz
 回归 100 n
 numpy 100 nz
@@ -238,6 +286,7 @@ NLP 100 nz
 similar_words 100 nz
 相似词 100 n
 DeepSeek 100 nz
+深度求索 100 n
 Mistral 100 nz
 NVIDIA 100 nz
 PaddleOCR 100 nz
@@ -307,3 +356,64 @@ mpi 100 nz
 Message Passing Interface 50 n
 Startmate 100 nz
 llama 100 nz
+hallucination 100 nz
+幻觉 100 n
+幻觉问题 50 n
+AI幻觉 50 n
+token 100 nz
+令牌 100 n
+tokens 50 n
+prompt engineering 100 nz
+提示工程 100 n
+提示词工程 50 n
+Prompt Engineering 50 n
+context window 100 nz
+上下文窗口 100 n
+上下文长度 50 n
+inference 100 nz
+推理 100 n
+模型推理 50 n
+multimodal 100 nz
+多模态 100 n
+多模态模型 50 n
+Hugging Face 100 nz
+HuggingFace 50 n
+huggingface 50 n
+Ollama 100 nz
+alignment 100 nz
+对齐 100 n
+AI对齐 50 n
+Gemini 100 nz
+Whisper 100 nz
+attention mechanism 100 nz
+注意力机制 100 n
+attention 50 n
+self-attention 50 n
+human in the loop 100 nz
+人机协作 100 n
+HITL 50 n
+人在回路 50 n
+Grok 100 nz
+BERT 100 nz
+diffusion model 100 nz
+扩散模型 100 n
+diffusion 50 n
+Stable Diffusion 100 nz
+SD 50 n
+OpenRouter 100 nz
+LangSmith 100 nz
+chain of thought 100 nz
+思维链 100 n
+CoT 50 n
+RLHF 100 nz
+人类反馈强化学习 100 n
+zero-shot 100 nz
+零样本 100 n
+zero shot 50 n
+few-shot 100 nz
+少样本 100 n
+few shot 50 n
+Obsidian 100 nz
+Claude Code 100 nz
+Claude Skills 100 nz
+skills 50 n

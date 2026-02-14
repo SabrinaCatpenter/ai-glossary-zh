@@ -317,7 +317,11 @@
     "en": "label",
     "zh": "标签",
     "aliases": [
-      "标签"
+      "标签",
+      "数据标注",
+      "标注",
+      "labeling",
+      "labelling"
     ],
     "type": "concept"
   },
@@ -753,7 +757,7 @@
   },
   {
     "en": "Claude",
-    "zh": null,
+    "zh": "克劳德",
     "aliases": [],
     "type": "product"
   },
@@ -881,7 +885,7 @@
   },
   {
     "en": "DeepSeek",
-    "zh": null,
+    "zh": "深度求索",
     "aliases": [],
     "type": "product"
   },
@@ -1173,5 +1177,198 @@
     "zh": null,
     "aliases": [],
     "type": "product"
+  },
+  {
+    "en": "hallucination",
+    "zh": "幻觉",
+    "aliases": [
+      "幻觉问题",
+      "AI幻觉"
+    ],
+    "type": "concept"
+  },
+  {
+    "en": "token",
+    "zh": "令牌",
+    "aliases": [
+      "tokens"
+    ],
+    "type": "concept"
+  },
+  {
+    "en": "prompt engineering",
+    "zh": "提示工程",
+    "aliases": [
+      "提示词工程",
+      "Prompt Engineering"
+    ],
+    "type": "concept"
+  },
+  {
+    "en": "context window",
+    "zh": "上下文窗口",
+    "aliases": [
+      "上下文长度"
+    ],
+    "type": "concept"
+  },
+  {
+    "en": "inference",
+    "zh": "推理",
+    "aliases": [
+      "模型推理"
+    ],
+    "type": "concept"
+  },
+  {
+    "en": "multimodal",
+    "zh": "多模态",
+    "aliases": [
+      "多模态模型"
+    ],
+    "type": "concept"
+  },
+  {
+    "en": "Hugging Face",
+    "zh": null,
+    "aliases": [
+      "HuggingFace",
+      "huggingface"
+    ],
+    "type": "platform"
+  },
+  {
+    "en": "Ollama",
+    "zh": null,
+    "aliases": [],
+    "type": "product"
+  },
+  {
+    "en": "alignment",
+    "zh": "对齐",
+    "aliases": [
+      "AI对齐"
+    ],
+    "type": "concept"
+  },
+  {
+    "en": "Gemini",
+    "zh": null,
+    "aliases": [],
+    "type": "product"
+  },
+  {
+    "en": "Whisper",
+    "zh": null,
+    "aliases": [],
+    "type": "product"
+  },
+  {
+    "en": "attention mechanism",
+    "zh": "注意力机制",
+    "aliases": [
+      "attention",
+      "self-attention"
+    ],
+    "type": "concept"
+  },
+  {
+    "en": "human in the loop",
+    "zh": "人机协作",
+    "aliases": [
+      "HITL",
+      "人在回路"
+    ],
+    "type": "concept"
+  },
+  {
+    "en": "Grok",
+    "zh": null,
+    "aliases": [],
+    "type": "product"
+  },
+  {
+    "en": "BERT",
+    "zh": null,
+    "aliases": [],
+    "type": "concept"
+  },
+  {
+    "en": "diffusion model",
+    "zh": "扩散模型",
+    "aliases": [
+      "diffusion"
+    ],
+    "type": "concept"
+  },
+  {
+    "en": "Stable Diffusion",
+    "zh": null,
+    "aliases": [
+      "SD"
+    ],
+    "type": "product"
+  },
+  {
+    "en": "OpenRouter",
+    "zh": null,
+    "aliases": [],
+    "type": "platform"
+  },
+  {
+    "en": "LangSmith",
+    "zh": null,
+    "aliases": [],
+    "type": "product"
+  },
+  {
+    "en": "chain of thought",
+    "zh": "思维链",
+    "aliases": [
+      "CoT"
+    ],
+    "type": "concept"
+  },
+  {
+    "en": "RLHF",
+    "zh": "人类反馈强化学习",
+    "aliases": [],
+    "type": "concept"
+  },
+  {
+    "en": "zero-shot",
+    "zh": "零样本",
+    "aliases": [
+      "zero shot"
+    ],
+    "type": "concept"
+  },
+  {
+    "en": "few-shot",
+    "zh": "少样本",
+    "aliases": [
+      "few shot"
+    ],
+    "type": "concept"
+  },
+  {
+    "en": "Obsidian",
+    "zh": null,
+    "aliases": [],
+    "type": "product"
+  },
+  {
+    "en": "Claude Code",
+    "zh": null,
+    "aliases": [],
+    "type": "product"
+  },
+  {
+    "en": "Claude Skills",
+    "zh": null,
+    "aliases": [
+      "skills"
+    ],
+    "type": "concept"
   }
 ]
