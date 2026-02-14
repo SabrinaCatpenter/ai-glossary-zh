@@ -1,5 +1,7 @@
 # ai-glossary-zh
 
+English | [中文](README_CN.md)
+
 A bilingual (Chinese-English) glossary for AI/ML terminology, designed for:
 - Chinese word segmentation (jieba)
 - Term normalization (merge synonyms)
@@ -71,12 +73,11 @@ print(lookup.get("大语言模型"))  # "LLM"
 
 ## Stats
 
-- Total entries: 176
-- Concepts: 122
-- Frameworks: 15
-- Products: 14
-- Platforms: 10
-- Companies: 10
+- Total entries: 202
+- Concepts: 140+
+- Frameworks: 15+
+- Products: 15+
+- Platforms/Companies: 20+
 
 ## Contributing
 
