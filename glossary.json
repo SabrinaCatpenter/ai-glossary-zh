@@ -1,0 +1,1177 @@
+[
+  {
+    "en": "model",
+    "zh": "模型",
+    "aliases": [
+      "模型",
+      "建模"
+    ],
+    "type": "concept"
+  },
+  {
+    "en": "framework",
+    "zh": "框架",
+    "aliases": [
+      "框架"
+    ],
+    "type": "framework"
+  },
+  {
+    "en": "optimization",
+    "zh": "优化",
+    "aliases": [
+      "优化"
+    ],
+    "type": "concept"
+  },
+  {
+    "en": "training",
+    "zh": "训练",
+    "aliases": [
+      "训练"
+    ],
+    "type": "concept"
+  },
+  {
+    "en": "database",
+    "zh": "数据库",
+    "aliases": [
+      "数据库"
+    ],
+    "type": "concept"
+  },
+  {
+    "en": "image",
+    "zh": "图像",
+    "aliases": [
+      "图像"
+    ],
+    "type": "concept"
+  },
+  {
+    "en": "classification",
+    "zh": "分类",
+    "aliases": [
+      "分类"
+    ],
+    "type": "concept"
+  },
+  {
+    "en": "evaluation",
+    "zh": "评估",
+    "aliases": [
+      "评估"
+    ],
+    "type": "concept"
+  },
+  {
+    "en": "architecture",
+    "zh": "架构",
+    "aliases": [
+      "架构"
+    ],
+    "type": "concept"
+  },
+  {
+    "en": "platform",
+    "zh": "平台",
+    "aliases": [
+      "平台"
+    ],
+    "type": "platform"
+  },
+  {
+    "en": "performance",
+    "zh": "性能",
+    "aliases": [
+      "性能"
+    ],
+    "type": "concept"
+  },
+  {
+    "en": "prediction",
+    "zh": "预测",
+    "aliases": [
+      "预测"
+    ],
+    "type": "concept"
+  },
+  {
+    "en": "algorithm",
+    "zh": "算法",
+    "aliases": [
+      "算法"
+    ],
+    "type": "concept"
+  },
+  {
+    "en": "solution",
+    "zh": "解决方案",
+    "aliases": [
+      "解决方案",
+      "方案"
+    ],
+    "type": "concept"
+  },
+  {
+    "en": "intelligence",
+    "zh": "智能",
+    "aliases": [
+      "智能"
+    ],
+    "type": "concept"
+  },
+  {
+    "en": "detection",
+    "zh": "检测",
+    "aliases": [
+      "检测"
+    ],
+    "type": "concept"
+  },
+  {
+    "en": "chat",
+    "zh": "聊天",
+    "aliases": [
+      "聊天"
+    ],
+    "type": "concept"
+  },
+  {
+    "en": "voice",
+    "zh": "语音",
+    "aliases": [
+      "语音"
+    ],
+    "type": "concept"
+  },
+  {
+    "en": "visualization",
+    "zh": "可视化",
+    "aliases": [
+      "可视化"
+    ],
+    "type": "concept"
+  },
+  {
+    "en": "retrieval",
+    "zh": "检索",
+    "aliases": [
+      "检索"
+    ],
+    "type": "concept"
+  },
+  {
+    "en": "artificial intelligence",
+    "zh": "人工智能",
+    "aliases": [
+      "人工智能"
+    ],
+    "type": "concept"
+  },
+  {
+    "en": "robotics",
+    "zh": "机器人",
+    "aliases": [
+      "机器人"
+    ],
+    "type": "concept"
+  },
+  {
+    "en": "pattern",
+    "zh": "模式",
+    "aliases": [
+      "模式"
+    ],
+    "type": "concept"
+  },
+  {
+    "en": "open source",
+    "zh": "开源",
+    "aliases": [
+      "开源"
+    ],
+    "type": "concept"
+  },
+  {
+    "en": "deep learning",
+    "zh": "深度学习",
+    "aliases": [
+      "深度"
+    ],
+    "type": "concept"
+  },
+  {
+    "en": "engine",
+    "zh": "引擎",
+    "aliases": [
+      "引擎"
+    ],
+    "type": "concept"
+  },
+  {
+    "en": "data processing",
+    "zh": "数据处理",
+    "aliases": [
+      "数据处理"
+    ],
+    "type": "concept"
+  },
+  {
+    "en": "security",
+    "zh": "安全性",
+    "aliases": [
+      "安全性"
+    ],
+    "type": "concept"
+  },
+  {
+    "en": "monitoring",
+    "zh": "监控",
+    "aliases": [
+      "监控"
+    ],
+    "type": "concept"
+  },
+  {
+    "en": "agent",
+    "zh": "代理",
+    "aliases": [
+      "代理"
+    ],
+    "type": "concept"
+  },
+  {
+    "en": "vision",
+    "zh": "视觉",
+    "aliases": [
+      "视觉"
+    ],
+    "type": "concept"
+  },
+  {
+    "en": "vector",
+    "zh": "向量",
+    "aliases": [
+      "向量"
+    ],
+    "type": "concept"
+  },
+  {
+    "en": "protocol",
+    "zh": "协议",
+    "aliases": [
+      "协议"
+    ],
+    "type": "concept"
+  },
+  {
+    "en": "component",
+    "zh": "组件",
+    "aliases": [
+      "组件"
+    ],
+    "type": "concept"
+  },
+  {
+    "en": "preprocessing",
+    "zh": "预处理",
+    "aliases": [
+      "预处理"
+    ],
+    "type": "concept"
+  },
+  {
+    "en": "modal",
+    "zh": "模态",
+    "aliases": [
+      "模态"
+    ],
+    "type": "concept"
+  },
+  {
+    "en": "interpolation",
+    "zh": "插值",
+    "aliases": [
+      "插值"
+    ],
+    "type": "concept"
+  },
+  {
+    "en": "indexing",
+    "zh": "索引",
+    "aliases": [
+      "索引"
+    ],
+    "type": "concept"
+  },
+  {
+    "en": "graph",
+    "zh": "图形",
+    "aliases": [
+      "图形"
+    ],
+    "type": "concept"
+  },
+  {
+    "en": "label",
+    "zh": "标签",
+    "aliases": [
+      "标签"
+    ],
+    "type": "concept"
+  },
+  {
+    "en": "localization",
+    "zh": "定位",
+    "aliases": [
+      "定位"
+    ],
+    "type": "concept"
+  },
+  {
+    "en": "linear",
+    "zh": "线性",
+    "aliases": [
+      "线性"
+    ],
+    "type": "concept"
+  },
+  {
+    "en": "probability",
+    "zh": "概率",
+    "aliases": [
+      "概率"
+    ],
+    "type": "concept"
+  },
+  {
+    "en": "weight",
+    "zh": "权重",
+    "aliases": [
+      "权重"
+    ],
+    "type": "concept"
+  },
+  {
+    "en": "distance",
+    "zh": "距离",
+    "aliases": [],
+    "type": "concept"
+  },
+  {
+    "en": "accelerator",
+    "zh": "加速器",
+    "aliases": [],
+    "type": "concept"
+  },
+  {
+    "en": "normalization",
+    "zh": "标准化",
+    "aliases": [],
+    "type": "concept"
+  },
+  {
+    "en": "plugin",
+    "zh": "插件",
+    "aliases": [],
+    "type": "concept"
+  },
+  {
+    "en": "variance",
+    "zh": "方差",
+    "aliases": [],
+    "type": "concept"
+  },
+  {
+    "en": "complexity",
+    "zh": "复杂度",
+    "aliases": [],
+    "type": "concept"
+  },
+  {
+    "en": "personalization",
+    "zh": "个性化",
+    "aliases": [],
+    "type": "concept"
+  },
+  {
+    "en": "stability",
+    "zh": "稳定性",
+    "aliases": [],
+    "type": "concept"
+  },
+  {
+    "en": "metric",
+    "zh": "指标",
+    "aliases": [],
+    "type": "concept"
+  },
+  {
+    "en": "data type",
+    "zh": "数据类型",
+    "aliases": [],
+    "type": "concept"
+  },
+  {
+    "en": "data structure",
+    "zh": "数据结构",
+    "aliases": [],
+    "type": "concept"
+  },
+  {
+    "en": "uncertainty",
+    "zh": "不确定性",
+    "aliases": [],
+    "type": "concept"
+  },
+  {
+    "en": "regularization",
+    "zh": "正则",
+    "aliases": [],
+    "type": "concept"
+  },
+  {
+    "en": "data source",
+    "zh": "数据源",
+    "aliases": [],
+    "type": "concept"
+  },
+  {
+    "en": "dimension",
+    "zh": "维度",
+    "aliases": [],
+    "type": "concept"
+  },
+  {
+    "en": "ethics",
+    "zh": "伦理",
+    "aliases": [],
+    "type": "concept"
+  },
+  {
+    "en": "neural network",
+    "zh": "神经网络",
+    "aliases": [],
+    "type": "concept"
+  },
+  {
+    "en": "fine-tuning",
+    "zh": "微调",
+    "aliases": [],
+    "type": "concept"
+  },
+  {
+    "en": "intention",
+    "zh": "意图",
+    "aliases": [],
+    "type": "concept"
+  },
+  {
+    "en": "feature extraction",
+    "zh": "特征提取",
+    "aliases": [],
+    "type": "concept"
+  },
+  {
+    "en": "data format",
+    "zh": "数据格式",
+    "aliases": [],
+    "type": "concept"
+  },
+  {
+    "en": "covariance",
+    "zh": "协方差",
+    "aliases": [],
+    "type": "concept"
+  },
+  {
+    "en": "threshold",
+    "zh": "阈值",
+    "aliases": [],
+    "type": "concept"
+  },
+  {
+    "en": "Gaussian",
+    "zh": "高斯",
+    "aliases": [],
+    "type": "concept"
+  },
+  {
+    "en": "mean",
+    "zh": "均值",
+    "aliases": [],
+    "type": "concept"
+  },
+  {
+    "en": "pipeline",
+    "zh": "管道",
+    "aliases": [],
+    "type": "concept"
+  },
+  {
+    "en": "information retrieval",
+    "zh": "信息检索",
+    "aliases": [],
+    "type": "concept"
+  },
+  {
+    "en": "clustering",
+    "zh": "聚类",
+    "aliases": [],
+    "type": "concept"
+  },
+  {
+    "en": "residual",
+    "zh": "残差",
+    "aliases": [],
+    "type": "concept"
+  },
+  {
+    "en": "image processing",
+    "zh": "图像处理",
+    "aliases": [],
+    "type": "concept"
+  },
+  {
+    "en": "computational resources",
+    "zh": "计算资源",
+    "aliases": [],
+    "type": "concept"
+  },
+  {
+    "en": "character recognition",
+    "zh": "字符识别",
+    "aliases": [],
+    "type": "concept"
+  },
+  {
+    "en": "sensor",
+    "zh": "传感器",
+    "aliases": [],
+    "type": "concept"
+  },
+  {
+    "en": "gradient",
+    "zh": "梯度",
+    "aliases": [],
+    "type": "concept"
+  },
+  {
+    "en": "data center",
+    "zh": "数据中心",
+    "aliases": [],
+    "type": "concept"
+  },
+  {
+    "en": "scalability",
+    "zh": "可扩展性",
+    "aliases": [],
+    "type": "concept"
+  },
+  {
+    "en": "encryption",
+    "zh": "加密",
+    "aliases": [],
+    "type": "concept"
+  },
+  {
+    "en": "classifier",
+    "zh": "分类器",
+    "aliases": [],
+    "type": "concept"
+  },
+  {
+    "en": "streaming",
+    "zh": "流式",
+    "aliases": [],
+    "type": "concept"
+  },
+  {
+    "en": "use case",
+    "zh": "用例",
+    "aliases": [],
+    "type": "concept"
+  },
+  {
+    "en": "loss",
+    "zh": "损失",
+    "aliases": [],
+    "type": "concept"
+  },
+  {
+    "en": "statistics",
+    "zh": "统计学",
+    "aliases": [],
+    "type": "concept"
+  },
+  {
+    "en": "association",
+    "zh": "关联",
+    "aliases": [],
+    "type": "concept"
+  },
+  {
+    "en": "n8n",
+    "zh": null,
+    "aliases": [],
+    "type": "product"
+  },
+  {
+    "en": "Azure",
+    "zh": null,
+    "aliases": [],
+    "type": "platform"
+  },
+  {
+    "en": "Google",
+    "zh": null,
+    "aliases": [],
+    "type": "company"
+  },
+  {
+    "en": "OpenAI",
+    "zh": null,
+    "aliases": [],
+    "type": "company"
+  },
+  {
+    "en": "Microsoft",
+    "zh": null,
+    "aliases": [],
+    "type": "company"
+  },
+  {
+    "en": "AWS",
+    "zh": null,
+    "aliases": [],
+    "type": "platform"
+  },
+  {
+    "en": "LLM",
+    "zh": "大语言模型",
+    "aliases": [
+      "大型语言模型"
+    ],
+    "type": "concept"
+  },
+  {
+    "en": "Codex",
+    "zh": null,
+    "aliases": [
+      "codex"
+    ],
+    "type": "product"
+  },
+  {
+    "en": "Docker",
+    "zh": null,
+    "aliases": [
+      "docker"
+    ],
+    "type": "platform"
+  },
+  {
+    "en": "OCR",
+    "zh": "光学字符识别",
+    "aliases": [],
+    "type": "concept"
+  },
+  {
+    "en": "MCP",
+    "zh": null,
+    "aliases": [],
+    "type": "product"
+  },
+  {
+    "en": "pandas",
+    "zh": null,
+    "aliases": [],
+    "type": "framework"
+  },
+  {
+    "en": "Cloud",
+    "zh": "云",
+    "aliases": [],
+    "type": "concept"
+  },
+  {
+    "en": "RAG",
+    "zh": null,
+    "aliases": [],
+    "type": "concept"
+  },
+  {
+    "en": "DataFrame",
+    "zh": "数据框",
+    "aliases": [],
+    "type": "concept"
+  },
+  {
+    "en": "GPU",
+    "zh": "图形处理单元",
+    "aliases": [],
+    "type": "concept"
+  },
+  {
+    "en": "ChatGPT",
+    "zh": null,
+    "aliases": [],
+    "type": "product"
+  },
+  {
+    "en": "cv2",
+    "zh": null,
+    "aliases": [],
+    "type": "framework"
+  },
+  {
+    "en": "LangChain",
+    "zh": null,
+    "aliases": [],
+    "type": "framework"
+  },
+  {
+    "en": "sklearn",
+    "zh": null,
+    "aliases": [],
+    "type": "framework"
+  },
+  {
+    "en": "SQL",
+    "zh": "结构化查询语言",
+    "aliases": [
+      "sql"
+    ],
+    "type": "concept"
+  },
+  {
+    "en": "PostgreSQL",
+    "zh": null,
+    "aliases": [],
+    "type": "database"
+  },
+  {
+    "en": "Claude",
+    "zh": null,
+    "aliases": [],
+    "type": "product"
+  },
+  {
+    "en": "Regression",
+    "zh": "回归",
+    "aliases": [],
+    "type": "concept"
+  },
+  {
+    "en": "numpy",
+    "zh": null,
+    "aliases": [],
+    "type": "framework"
+  },
+  {
+    "en": "GitHub",
+    "zh": null,
+    "aliases": [],
+    "type": "platform"
+  },
+  {
+    "en": "SharePoint",
+    "zh": null,
+    "aliases": [],
+    "type": "platform"
+  },
+  {
+    "en": "Webhook",
+    "zh": null,
+    "aliases": [],
+    "type": "concept"
+  },
+  {
+    "en": "Trigger",
+    "zh": null,
+    "aliases": [],
+    "type": "concept"
+  },
+  {
+    "en": "MQTT",
+    "zh": null,
+    "aliases": [],
+    "type": "protocol"
+  },
+  {
+    "en": "prompt",
+    "zh": "提示",
+    "aliases": [],
+    "type": "concept"
+  },
+  {
+    "en": "Supabase",
+    "zh": null,
+    "aliases": [],
+    "type": "platform"
+  },
+  {
+    "en": "TTS",
+    "zh": "文本转语音",
+    "aliases": [],
+    "type": "concept"
+  },
+  {
+    "en": "Nominatim",
+    "zh": null,
+    "aliases": [],
+    "type": "service"
+  },
+  {
+    "en": "geopy",
+    "zh": null,
+    "aliases": [],
+    "type": "library"
+  },
+  {
+    "en": "torch",
+    "zh": null,
+    "aliases": [],
+    "type": "framework"
+  },
+  {
+    "en": "Pydantic",
+    "zh": null,
+    "aliases": [],
+    "type": "library"
+  },
+  {
+    "en": "Notebook",
+    "zh": "笔记本",
+    "aliases": [],
+    "type": "concept"
+  },
+  {
+    "en": "LangGraph",
+    "zh": null,
+    "aliases": [],
+    "type": "framework"
+  },
+  {
+    "en": "tokenizer",
+    "zh": "分词器",
+    "aliases": [],
+    "type": "concept"
+  },
+  {
+    "en": "Chatbot",
+    "zh": "聊天机器人",
+    "aliases": [
+      "Bot"
+    ],
+    "type": "concept"
+  },
+  {
+    "en": "NLP",
+    "zh": "自然语言处理",
+    "aliases": [],
+    "type": "concept"
+  },
+  {
+    "en": "similar_words",
+    "zh": "相似词",
+    "aliases": [],
+    "type": "concept"
+  },
+  {
+    "en": "DeepSeek",
+    "zh": null,
+    "aliases": [],
+    "type": "product"
+  },
+  {
+    "en": "Mistral",
+    "zh": null,
+    "aliases": [],
+    "type": "company"
+  },
+  {
+    "en": "NVIDIA",
+    "zh": null,
+    "aliases": [],
+    "type": "company"
+  },
+  {
+    "en": "PaddleOCR",
+    "zh": null,
+    "aliases": [],
+    "type": "product"
+  },
+  {
+    "en": "Tesseract",
+    "zh": null,
+    "aliases": [
+      "pytesseract"
+    ],
+    "type": "product"
+  },
+  {
+    "en": "scikit-learn",
+    "zh": null,
+    "aliases": [],
+    "type": "framework"
+  },
+  {
+    "en": "transformers",
+    "zh": null,
+    "aliases": [],
+    "type": "framework"
+  },
+  {
+    "en": "LinearRegression",
+    "zh": "线性回归",
+    "aliases": [],
+    "type": "concept"
+  },
+  {
+    "en": "Kernel",
+    "zh": "核",
+    "aliases": [],
+    "type": "concept"
+  },
+  {
+    "en": "mpi4py",
+    "zh": null,
+    "aliases": [],
+    "type": "framework"
+  },
+  {
+    "en": "folium",
+    "zh": null,
+    "aliases": [],
+    "type": "framework"
+  },
+  {
+    "en": "Jupyter",
+    "zh": null,
+    "aliases": [],
+    "type": "platform"
+  },
+  {
+    "en": "open-webui",
+    "zh": null,
+    "aliases": [],
+    "type": "platform"
+  },
+  {
+    "en": "workflow",
+    "zh": "工作流",
+    "aliases": [],
+    "type": "concept"
+  },
+  {
+    "en": "minerU",
+    "zh": null,
+    "aliases": [],
+    "type": "product"
+  },
+  {
+    "en": "olmocr",
+    "zh": null,
+    "aliases": [],
+    "type": "product"
+  },
+  {
+    "en": "NotebookLM",
+    "zh": null,
+    "aliases": [],
+    "type": "product"
+  },
+  {
+    "en": "RTX",
+    "zh": null,
+    "aliases": [],
+    "type": "product"
+  },
+  {
+    "en": "embedding",
+    "zh": "嵌入",
+    "aliases": [
+      "embeddings",
+      "向量嵌入"
+    ],
+    "type": "concept"
+  },
+  {
+    "en": "GPT",
+    "zh": null,
+    "aliases": [
+      "GPT-4"
+    ],
+    "type": "product"
+  },
+  {
+    "en": "PyTorch",
+    "zh": null,
+    "aliases": [],
+    "type": "framework"
+  },
+  {
+    "en": "Flask",
+    "zh": null,
+    "aliases": [],
+    "type": "framework"
+  },
+  {
+    "en": "gcloud",
+    "zh": null,
+    "aliases": [
+      "Google Cloud"
+    ],
+    "type": "platform"
+  },
+  {
+    "en": "Amazon",
+    "zh": null,
+    "aliases": [],
+    "type": "company"
+  },
+  {
+    "en": "Anthropic",
+    "zh": null,
+    "aliases": [],
+    "type": "company"
+  },
+  {
+    "en": "Suno",
+    "zh": null,
+    "aliases": [],
+    "type": "company"
+  },
+  {
+    "en": "LSTM",
+    "zh": "长短期记忆",
+    "aliases": [
+      "Long Short-Term Memory"
+    ],
+    "type": "concept"
+  },
+  {
+    "en": "Nadaraya-Watson",
+    "zh": null,
+    "aliases": [
+      "Nadaraya-Watson回归"
+    ],
+    "type": "concept"
+  },
+  {
+    "en": "LDA",
+    "zh": "线性判别分析",
+    "aliases": [
+      "Linear Discriminant Analysis"
+    ],
+    "type": "concept"
+  },
+  {
+    "en": "Agents",
+    "zh": null,
+    "aliases": [],
+    "type": "concept"
+  },
+  {
+    "en": "matrix",
+    "zh": "矩阵",
+    "aliases": [],
+    "type": "concept"
+  },
+  {
+    "en": "TimeseriesData",
+    "zh": "时间序列数据",
+    "aliases": [],
+    "type": "concept"
+  },
+  {
+    "en": "tools",
+    "zh": "工具",
+    "aliases": [],
+    "type": "concept"
+  },
+  {
+    "en": "unstructured",
+    "zh": "非结构化",
+    "aliases": [],
+    "type": "concept"
+  },
+  {
+    "en": "MLAI",
+    "zh": null,
+    "aliases": [],
+    "type": "concept"
+  },
+  {
+    "en": "api_key",
+    "zh": "API密钥",
+    "aliases": [],
+    "type": "concept"
+  },
+  {
+    "en": "APIs",
+    "zh": "API",
+    "aliases": [],
+    "type": "concept"
+  },
+  {
+    "en": "Tailscale",
+    "zh": null,
+    "aliases": [],
+    "type": "company"
+  },
+  {
+    "en": "seaborn",
+    "zh": null,
+    "aliases": [],
+    "type": "framework"
+  },
+  {
+    "en": "PolynomialFeatures",
+    "zh": null,
+    "aliases": [],
+    "type": "concept"
+  },
+  {
+    "en": "LBP",
+    "zh": "局部二值模式",
+    "aliases": [
+      "Local Binary Patterns"
+    ],
+    "type": "concept"
+  },
+  {
+    "en": "Context",
+    "zh": null,
+    "aliases": [],
+    "type": "concept"
+  },
+  {
+    "en": "Spline",
+    "zh": "样条",
+    "aliases": [],
+    "type": "concept"
+  },
+  {
+    "en": "mpi",
+    "zh": null,
+    "aliases": [
+      "Message Passing Interface"
+    ],
+    "type": "concept"
+  },
+  {
+    "en": "Startmate",
+    "zh": null,
+    "aliases": [],
+    "type": "company"
+  },
+  {
+    "en": "llama",
+    "zh": null,
+    "aliases": [],
+    "type": "product"
+  }
+]
