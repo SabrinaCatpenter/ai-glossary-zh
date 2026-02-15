@@ -6,7 +6,9 @@
       "模型",
       "建模"
     ],
-    "type": "concept"
+    "type": "concept",
+    "definition_zh": "模型是机器学习和人工智能中的核心概念，表示用于数据分析和预测的数学结构。它可以通过训练过程不断优化，以提高性能和准确性。",
+    "definition_en": "A model is a core concept in machine learning and artificial intelligence, representing a mathematical structure used for data analysis and prediction. It can be continuously optimized through the training process to improve performance and accuracy."
   },
   {
     "en": "framework",
@@ -14,7 +16,9 @@
     "aliases": [
       "框架"
     ],
-    "type": "framework"
+    "type": "framework",
+    "definition_zh": "框架是用于构建和组织机器学习和人工智能系统的基础结构，通常包括多个组件和算法。它为开发者提供了一个统一的环境来实现和优化模型。",
+    "definition_en": "A framework is the foundational structure used to build and organize machine learning and artificial intelligence systems, typically comprising multiple components and algorithms. It provides developers with a unified environment to implement and optimize models."
   },
   {
     "en": "optimization",
@@ -22,7 +26,9 @@
     "aliases": [
       "优化"
     ],
-    "type": "concept"
+    "type": "concept",
+    "definition_zh": "优化是指通过调整参数和算法来提高模型性能的过程。在机器学习中，优化是训练模型和评估其效果的重要步骤。",
+    "definition_en": "Optimization refers to the process of improving model performance by adjusting parameters and algorithms. In machine learning, optimization is a crucial step in training models and evaluating their effectiveness."
   },
   {
     "en": "training",
@@ -30,7 +36,9 @@
     "aliases": [
       "训练"
     ],
-    "type": "concept"
+    "type": "concept",
+    "definition_zh": "训练是机器学习中用于调整模型参数以提高其性能的过程。通过训练，模型能够从数据中学习并进行预测。",
+    "definition_en": "Training is the process in machine learning used to adjust model parameters to improve performance. Through training, the model learns from data and makes predictions."
   },
   {
     "en": "database",
@@ -38,7 +46,9 @@
     "aliases": [
       "数据库"
     ],
-    "type": "concept"
+    "type": "concept",
+    "definition_zh": "数据库是用于存储、管理和检索数据的系统，广泛应用于各种数据处理和分析任务。它是数据结构和数据类型的基础，支持多种数据源的整合。",
+    "definition_en": "A database is a system used for storing, managing, and retrieving data, widely applied in various data processing and analysis tasks. It forms the foundation of data structures and data types, supporting the integration of multiple data sources."
   },
   {
     "en": "image",
@@ -46,7 +56,9 @@
     "aliases": [
       "图像"
     ],
-    "type": "concept"
+    "type": "concept",
+    "definition_zh": "图像是计算机视觉和人工智能领域中的一个重要概念，涉及到图像的处理、分类和检测等任务。它在深度学习和数据处理的应用中扮演着关键角色。",
+    "definition_en": "Image is an important concept in computer vision and artificial intelligence, involving tasks such as image processing, classification, and detection. It plays a key role in applications of deep learning and data processing."
   },
   {
     "en": "classification",
@@ -54,7 +66,9 @@
     "aliases": [
       "分类"
     ],
-    "type": "concept"
+    "type": "concept",
+    "definition_zh": "分类是机器学习中的一种任务，用于将数据点分配到预定义的类别中。它通常依赖于算法和模型来实现，并与训练和评估过程密切相关。",
+    "definition_en": "Classification is a task in machine learning used to assign data points to predefined categories. It typically relies on algorithms and models and is closely related to the training and evaluation processes."
   },
   {
     "en": "evaluation",
@@ -62,7 +76,9 @@
     "aliases": [
       "评估"
     ],
-    "type": "concept"
+    "type": "concept",
+    "definition_zh": "评估是指对模型或算法性能的量化分析，通常涉及对其准确性和效率的测量。通过评估，可以优化和改进机器学习模型。",
+    "definition_en": "Evaluation refers to the quantitative analysis of a model or algorithm's performance, typically involving measurements of its accuracy and efficiency. Through evaluation, machine learning models can be optimized and improved."
   },
   {
     "en": "architecture",
@@ -70,7 +86,9 @@
     "aliases": [
       "架构"
     ],
-    "type": "concept"
+    "type": "concept",
+    "definition_zh": "在人工智能和机器学习中，架构指的是系统的整体结构和设计，涉及如何组织和集成不同的组件和技术。良好的架构能够提高系统的性能和可扩展性。",
+    "definition_en": "In artificial intelligence and machine learning, architecture refers to the overall structure and design of a system, involving the organization and integration of different components and technologies. A good architecture can enhance system performance and scalability."
   },
   {
     "en": "platform",
@@ -78,7 +96,9 @@
     "aliases": [
       "平台"
     ],
-    "type": "platform"
+    "type": "platform",
+    "definition_zh": "平台是一个用于构建和部署应用程序的基础设施，通常包括多种组件和服务。它可以支持各种功能，如数据处理、监控和扩展性。",
+    "definition_en": "A platform is an infrastructure used for building and deploying applications, typically comprising various components and services. It can support multiple functionalities such as data processing, monitoring, and scalability."
   },
   {
     "en": "performance",
@@ -86,7 +106,9 @@
     "aliases": [
       "性能"
     ],
-    "type": "concept"
+    "type": "concept",
+    "definition_zh": "性能是指系统或模型在特定条件下的表现，通常通过评估和优化来提高。它涉及多个方面，如稳定性、复杂性和可扩展性。",
+    "definition_en": "Performance refers to the behavior of a system or model under specific conditions, typically improved through evaluation and optimization. It involves multiple aspects such as stability, complexity, and scalability."
   },
   {
     "en": "prediction",
@@ -94,7 +116,9 @@
     "aliases": [
       "预测"
     ],
-    "type": "concept"
+    "type": "concept",
+    "definition_zh": "预测是通过分析数据和模型来推测未来事件或结果的过程，广泛应用于人工智能和机器学习领域。",
+    "definition_en": "Prediction is the process of inferring future events or outcomes by analyzing data and models, widely used in the fields of artificial intelligence and machine learning."
   },
   {
     "en": "algorithm",
@@ -102,7 +126,9 @@
     "aliases": [
       "算法"
     ],
-    "type": "concept"
+    "type": "concept",
+    "definition_zh": "算法是解决问题的一系列步骤和规则，广泛应用于人工智能和机器学习中。它可以与模型、优化和框架等概念相结合，以实现特定的任务。",
+    "definition_en": "An algorithm is a series of steps and rules for solving problems, widely used in artificial intelligence and machine learning. It can be combined with concepts such as models, optimization, and frameworks to achieve specific tasks."
   },
   {
     "en": "solution",
@@ -111,7 +137,9 @@
       "解决方案",
       "方案"
     ],
-    "type": "concept"
+    "type": "concept",
+    "definition_zh": "解决方案是指为特定问题提供的综合性方法或工具，通常包括多个组件和技术。它可以涉及算法、模型和优化等多个方面。",
+    "definition_en": "A solution refers to a comprehensive approach or tool provided for a specific problem, typically involving multiple components and technologies, including algorithms, models, and optimization."
   },
   {
     "en": "intelligence",
@@ -119,7 +147,9 @@
     "aliases": [
       "智能"
     ],
-    "type": "concept"
+    "type": "concept",
+    "definition_zh": "智能是指系统或机器模仿人类智能的能力，广泛应用于人工智能、机器学习等领域。它涵盖了多种技术和方法，如深度学习和神经网络。",
+    "definition_en": "Intelligence refers to the ability of a system or machine to mimic human intelligence, widely applied in fields such as artificial intelligence and machine learning. It encompasses various technologies and methods, including deep learning and neural networks."
   },
   {
     "en": "detection",
@@ -127,7 +157,9 @@
     "aliases": [
       "检测"
     ],
-    "type": "concept"
+    "type": "concept",
+    "definition_zh": "检测是指识别和确定特定对象或事件的过程，广泛应用于人工智能和监控领域。它可以通过多种技术实现，如图像处理和特征提取。",
+    "definition_en": "Detection refers to the process of identifying and determining specific objects or events, widely used in artificial intelligence and surveillance. It can be achieved through various techniques, such as image processing and feature extraction."
   },
   {
     "en": "chat",
@@ -135,7 +167,9 @@
     "aliases": [
       "聊天"
     ],
-    "type": "concept"
+    "type": "concept",
+    "definition_zh": "聊天是人工智能领域中的一种互动形式，通常用于人机对话系统。它涉及到智能体与用户之间的交流与信息交换。",
+    "definition_en": "Chat is an interactive form in the field of artificial intelligence, typically used in human-computer dialogue systems. It involves communication and information exchange between the agent and the user."
   },
   {
     "en": "voice",
@@ -143,7 +177,9 @@
     "aliases": [
       "语音"
     ],
-    "type": "concept"
+    "type": "concept",
+    "definition_zh": "语音是人工智能和数据处理领域中的一个重要概念，涉及到声音的识别和理解。它在聊天机器人、语音识别和其他智能应用中发挥着关键作用。",
+    "definition_en": "Voice is an important concept in the fields of artificial intelligence and data processing, involving the recognition and understanding of sound. It plays a key role in chatbots, speech recognition, and other intelligent applications."
   },
   {
     "en": "visualization",
@@ -151,7 +187,9 @@
     "aliases": [
       "可视化"
     ],
-    "type": "concept"
+    "type": "concept",
+    "definition_zh": "可视化是将数据以图形或图像的形式呈现，以便于理解和分析。它在数据处理和人工智能领域中具有重要应用。",
+    "definition_en": "Visualization is the presentation of data in graphical or image form to facilitate understanding and analysis. It has important applications in data processing and artificial intelligence."
   },
   {
     "en": "retrieval",
@@ -159,7 +197,9 @@
     "aliases": [
       "检索"
     ],
-    "type": "concept"
+    "type": "concept",
+    "definition_zh": "检索是从大量数据中提取相关信息的过程，通常用于信息检索和数据处理领域。它在人工智能和数据分析中扮演着重要角色。",
+    "definition_en": "Retrieval is the process of extracting relevant information from a large dataset, commonly used in information retrieval and data processing fields. It plays a crucial role in artificial intelligence and data analysis."
   },
   {
     "en": "artificial intelligence",
@@ -169,7 +209,9 @@
       "AI",
       "ai"
     ],
-    "type": "concept"
+    "type": "concept",
+    "definition_zh": "人工智能是计算机科学的一个分支，旨在创建能够执行通常需要人类智能的任务的系统。它涵盖了机器学习、自然语言处理、计算机视觉等多个领域。",
+    "definition_en": "Artificial intelligence is a branch of computer science aimed at creating systems capable of performing tasks that typically require human intelligence. It encompasses various fields such as machine learning, natural language processing, and computer vision."
   },
   {
     "en": "robotics",
@@ -177,7 +219,9 @@
     "aliases": [
       "机器人"
     ],
-    "type": "concept"
+    "type": "concept",
+    "definition_zh": "机器人是人工智能的一个应用领域，涉及自动化和智能系统的设计与实现。它结合了传感器、算法和平台等技术，以实现自主操作和任务执行。",
+    "definition_en": "Robotics is an application area of artificial intelligence that involves the design and implementation of automation and intelligent systems. It integrates technologies such as sensors, algorithms, and platforms to achieve autonomous operation and task execution."
   },
   {
     "en": "pattern",
@@ -185,7 +229,9 @@
     "aliases": [
       "模式"
     ],
-    "type": "concept"
+    "type": "concept",
+    "definition_zh": "模式是指在数据中识别和提取的规律或结构，广泛应用于机器学习和人工智能领域。通过模式识别，系统能够进行分类、检测和可视化等任务。",
+    "definition_en": "A pattern refers to the rules or structures identified and extracted from data, widely used in machine learning and artificial intelligence. Through pattern recognition, systems can perform tasks such as classification, detection, and visualization."
   },
   {
     "en": "open source",
@@ -193,7 +239,9 @@
     "aliases": [
       "开源"
     ],
-    "type": "concept"
+    "type": "concept",
+    "definition_zh": "开源是指软件的源代码可以公开获取和修改的模式，通常用于促进协作和创新。开源项目通常依赖于平台和框架来构建和部署解决方案。",
+    "definition_en": "Open source refers to a model where the source code of software is publicly accessible and modifiable, typically used to promote collaboration and innovation. Open source projects often rely on platforms and frameworks to build and deploy solutions."
   },
   {
     "en": "deep learning",
@@ -201,7 +249,9 @@
     "aliases": [
       "深度"
     ],
-    "type": "concept"
+    "type": "concept",
+    "definition_zh": "深度学习是一种通过神经网络进行数据处理和模式识别的机器学习方法，广泛应用于图像处理、语音识别等领域。",
+    "definition_en": "Deep learning is a machine learning method that processes data and recognizes patterns using neural networks, widely applied in fields such as image processing and speech recognition."
   },
   {
     "en": "engine",
@@ -209,7 +259,9 @@
     "aliases": [
       "引擎"
     ],
-    "type": "concept"
+    "type": "concept",
+    "definition_zh": "引擎是用于执行特定任务的系统或软件，可以作为平台或框架的一部分，支持模型的优化和训练等功能。",
+    "definition_en": "An engine is a system or software used to perform specific tasks, which can be part of a platform or framework, supporting functions such as model optimization and training."
   },
   {
     "en": "data processing",
@@ -217,7 +269,9 @@
     "aliases": [
       "数据处理"
     ],
-    "type": "concept"
+    "type": "concept",
+    "definition_zh": "数据处理是指对原始数据进行整理、转换和分析的过程，通常用于提高数据的可用性和有效性。它在人工智能和机器学习中起着关键作用。",
+    "definition_en": "Data processing refers to the process of organizing, transforming, and analyzing raw data, typically to enhance its usability and effectiveness. It plays a critical role in artificial intelligence and machine learning."
   },
   {
     "en": "security",
@@ -225,7 +279,9 @@
     "aliases": [
       "安全性"
     ],
-    "type": "concept"
+    "type": "concept",
+    "definition_zh": "安全性是指保护信息和系统免受未经授权访问和破坏的能力。它在人工智能和机器学习中尤为重要，涉及多种技术和方法。",
+    "definition_en": "Security refers to the ability to protect information and systems from unauthorized access and destruction. It is particularly important in artificial intelligence and machine learning, involving various technologies and methods."
   },
   {
     "en": "monitoring",
@@ -233,7 +289,9 @@
     "aliases": [
       "监控"
     ],
-    "type": "concept"
+    "type": "concept",
+    "definition_zh": "监控是指对系统或过程进行持续观察和分析，以确保其正常运行并及时发现问题。它在人工智能和机器学习中用于评估模型性能和数据处理效果。",
+    "definition_en": "Monitoring refers to the continuous observation and analysis of a system or process to ensure its normal operation and timely detection of issues. In artificial intelligence and machine learning, it is used to evaluate model performance and data processing effectiveness."
   },
   {
     "en": "agent",
@@ -242,7 +300,9 @@
       "代理",
       "Agents"
     ],
-    "type": "concept"
+    "type": "concept",
+    "definition_zh": "代理是指在人工智能和机器人领域中，能够自主执行任务的实体。它可以通过学习和适应环境来优化其行为。",
+    "definition_en": "An agent is an entity in artificial intelligence and robotics that can autonomously perform tasks. It can optimize its behavior by learning and adapting to its environment."
   },
   {
     "en": "vision",
@@ -250,7 +310,9 @@
     "aliases": [
       "视觉"
     ],
-    "type": "concept"
+    "type": "concept",
+    "definition_zh": "视觉是计算机科学中的一个重要领域，涉及到如何使计算机能够理解和处理图像和视频数据。它在人工智能和机器学习中发挥着关键作用。",
+    "definition_en": "Vision is an important field in computer science that involves enabling computers to understand and process image and video data. It plays a key role in artificial intelligence and machine learning."
   },
   {
     "en": "vector",
@@ -258,7 +320,9 @@
     "aliases": [
       "向量"
     ],
-    "type": "concept"
+    "type": "concept",
+    "definition_zh": "向量是数学和计算机科学中的一种基本概念，广泛应用于机器学习和数据处理。它可以表示数据的特征和关系，常用于模型训练和优化。",
+    "definition_en": "A vector is a fundamental concept in mathematics and computer science, widely used in machine learning and data processing. It can represent features and relationships of data, commonly used in model training and optimization."
   },
   {
     "en": "protocol",
@@ -266,7 +330,9 @@
     "aliases": [
       "协议"
     ],
-    "type": "concept"
+    "type": "concept",
+    "definition_zh": "协议是用于定义数据交换和通信的规则和标准，通常在计算机网络和分布式系统中使用。它可以与多种技术和解决方案结合，以实现高效的数据处理和传输。",
+    "definition_en": "A protocol is a set of rules and standards for defining data exchange and communication, commonly used in computer networks and distributed systems. It can be combined with various technologies and solutions to achieve efficient data processing and transmission."
   },
   {
     "en": "component",
@@ -274,7 +340,9 @@
     "aliases": [
       "组件"
     ],
-    "type": "concept"
+    "type": "concept",
+    "definition_zh": "在人工智能和机器学习中，组件是构建系统的基本单元，通常用于实现特定功能或服务。它们可以是算法、模型或其他可重用的模块。",
+    "definition_en": "In artificial intelligence and machine learning, a component is a fundamental unit for building systems, typically used to implement specific functions or services. They can be algorithms, models, or other reusable modules."
   },
   {
     "en": "preprocessing",
@@ -282,7 +350,9 @@
     "aliases": [
       "预处理"
     ],
-    "type": "concept"
+    "type": "concept",
+    "definition_zh": "预处理是数据分析和机器学习中的一个重要步骤，旨在清洗和转换原始数据，以便于后续的模型训练和分析。通过预处理，可以提高模型的性能和准确性。",
+    "definition_en": "Preprocessing is an important step in data analysis and machine learning, aimed at cleaning and transforming raw data to facilitate subsequent model training and analysis. It enhances model performance and accuracy."
   },
   {
     "en": "modal",
@@ -290,7 +360,9 @@
     "aliases": [
       "模态"
     ],
-    "type": "concept"
+    "type": "concept",
+    "definition_zh": "模态在机器学习中通常指的是模型的结构或形式，涉及到数据的不同表现方式。它在模型设计和数据处理过程中起着重要作用。",
+    "definition_en": "Modal in machine learning typically refers to the structure or form of a model, involving different representations of data. It plays a crucial role in model design and data processing."
   },
   {
     "en": "interpolation",
@@ -298,7 +370,9 @@
     "aliases": [
       "插值"
     ],
-    "type": "concept"
+    "type": "concept",
+    "definition_zh": "插值是一种在已知数据点之间估算新数据点的技术，广泛应用于数据处理和模型构建中。它可以用于图像处理、统计分析等多个领域。",
+    "definition_en": "Interpolation is a technique for estimating new data points between known data points, widely used in data processing and model building. It can be applied in various fields such as image processing and statistical analysis."
   },
   {
     "en": "indexing",
@@ -306,7 +380,9 @@
     "aliases": [
       "索引"
     ],
-    "type": "concept"
+    "type": "concept",
+    "definition_zh": "索引是数据管理和检索中的一个重要概念，用于提高数据访问的效率。它通常与数据库和信息检索系统密切相关。",
+    "definition_en": "Indexing is an important concept in data management and retrieval, used to enhance the efficiency of data access. It is closely related to databases and information retrieval systems."
   },
   {
     "en": "graph",
@@ -314,7 +390,9 @@
     "aliases": [
       "图形"
     ],
-    "type": "concept"
+    "type": "concept",
+    "definition_zh": "图形是数据结构的一种，用于表示对象之间的关系。在人工智能和机器学习中，图形可以用于可视化和分析复杂的数据关系。",
+    "definition_en": "A graph is a type of data structure used to represent relationships between objects. In artificial intelligence and machine learning, graphs can be used for visualizing and analyzing complex data relationships."
   },
   {
     "en": "label",
@@ -326,7 +404,9 @@
       "labeling",
       "labelling"
     ],
-    "type": "concept"
+    "type": "concept",
+    "definition_zh": "标签是机器学习和数据处理中的一个重要概念，用于标识和分类数据。它在模型训练和评估中起着关键作用。",
+    "definition_en": "Label is an important concept in machine learning and data processing used to identify and classify data. It plays a crucial role in model training and evaluation."
   },
   {
     "en": "localization",
@@ -334,7 +414,9 @@
     "aliases": [
       "定位"
     ],
-    "type": "concept"
+    "type": "concept",
+    "definition_zh": "定位是指在特定环境中确定物体或数据的位置，广泛应用于计算机视觉和机器学习领域。它涉及到数据处理和模型训练等多个方面。",
+    "definition_en": "Localization refers to determining the position of an object or data within a specific environment, widely used in computer vision and machine learning. It involves various aspects such as data processing and model training."
   },
   {
     "en": "linear",
@@ -342,7 +424,9 @@
     "aliases": [
       "线性"
     ],
-    "type": "concept"
+    "type": "concept",
+    "definition_zh": "线性是指在数学和计算机科学中，涉及到直线或线性关系的概念，广泛应用于模型和算法中。它在机器学习中常用于回归和分类任务。",
+    "definition_en": "Linear refers to the concept in mathematics and computer science involving straight lines or linear relationships, widely applied in models and algorithms. It is commonly used in regression and classification tasks in machine learning."
   },
   {
     "en": "probability",
@@ -350,7 +434,9 @@
     "aliases": [
       "概率"
     ],
-    "type": "concept"
+    "type": "concept",
+    "definition_zh": "概率是统计学中的一个基本概念，用于量化不确定性和事件发生的可能性。在机器学习中，概率用于模型的评估和预测。",
+    "definition_en": "Probability is a fundamental concept in statistics used to quantify uncertainty and the likelihood of events occurring. In machine learning, probability is used for model evaluation and prediction."
   },
   {
     "en": "weight",
@@ -358,301 +444,401 @@
     "aliases": [
       "权重"
     ],
-    "type": "concept"
+    "type": "concept",
+    "definition_zh": "权重是机器学习模型中用于调整特征影响力的重要参数，通常在训练和优化过程中使用。它在神经网络和其他算法中起着关键作用。",
+    "definition_en": "Weight is an important parameter in machine learning models used to adjust the influence of features, typically utilized during training and optimization. It plays a critical role in neural networks and other algorithms."
   },
   {
     "en": "distance",
     "zh": "距离",
     "aliases": [],
-    "type": "concept"
+    "type": "concept",
+    "definition_zh": "距离是用于衡量两个点之间的差异或相似性的度量，广泛应用于机器学习和数据分析中。它在模型训练、优化和评估中起着重要作用。",
+    "definition_en": "Distance is a measure used to quantify the difference or similarity between two points, widely applied in machine learning and data analysis. It plays a crucial role in model training, optimization, and evaluation."
   },
   {
     "en": "accelerator",
     "zh": "加速器",
     "aliases": [],
-    "type": "concept"
+    "type": "concept",
+    "definition_zh": "加速器在人工智能和机器学习中用于提高模型训练和推理的效率，通常涉及优化算法和数据处理。",
+    "definition_en": "An accelerator in artificial intelligence and machine learning is used to enhance the efficiency of model training and inference, often involving optimization algorithms and data processing."
   },
   {
     "en": "normalization",
     "zh": "标准化",
     "aliases": [],
-    "type": "concept"
+    "type": "concept",
+    "definition_zh": "标准化是数据处理中的一种技术，用于调整数据的分布，使其具有统一的尺度。它在机器学习模型的训练和优化中起着重要作用。",
+    "definition_en": "Normalization is a technique in data processing used to adjust the distribution of data to have a uniform scale. It plays a crucial role in the training and optimization of machine learning models."
   },
   {
     "en": "plugin",
     "zh": "插件",
     "aliases": [],
-    "type": "concept"
+    "type": "concept",
+    "definition_zh": "插件是一种可以扩展软件功能的组件，通常用于增强现有平台或框架的能力。它们可以用于数据处理、可视化等多种应用场景。",
+    "definition_en": "A plugin is a component that can extend the functionality of software, typically used to enhance the capabilities of existing platforms or frameworks. They can be applied in various scenarios such as data processing and visualization."
   },
   {
     "en": "variance",
     "zh": "方差",
     "aliases": [],
-    "type": "concept"
+    "type": "concept",
+    "definition_zh": "方差是统计学中的一个重要概念，用于衡量数据集的离散程度。它在机器学习中用于评估模型的性能和优化算法。",
+    "definition_en": "Variance is an important concept in statistics used to measure the dispersion of a dataset. In machine learning, it is used to evaluate model performance and optimize algorithms."
   },
   {
     "en": "complexity",
     "zh": "复杂度",
     "aliases": [],
-    "type": "concept"
+    "type": "concept",
+    "definition_zh": "复杂度是指系统或模型的复杂程度，通常与算法、模型的性能和评估指标相关。它在机器学习和人工智能中用于衡量和优化模型的表现。",
+    "definition_en": "Complexity refers to the degree of intricacy of a system or model, typically associated with algorithms, model performance, and evaluation metrics. It is used in machine learning and artificial intelligence to measure and optimize model performance."
   },
   {
     "en": "personalization",
     "zh": "个性化",
     "aliases": [],
-    "type": "concept"
+    "type": "concept",
+    "definition_zh": "个性化是通过分析用户数据和行为来提供定制化体验的过程，广泛应用于人工智能和数据处理领域。",
+    "definition_en": "Personalization is the process of providing customized experiences by analyzing user data and behavior, widely used in artificial intelligence and data processing fields."
   },
   {
     "en": "stability",
     "zh": "稳定性",
     "aliases": [],
-    "type": "concept"
+    "type": "concept",
+    "definition_zh": "稳定性是指系统在不同条件下保持其性能和功能的一致性，是评估模型和算法的重要指标。它在机器学习和人工智能中尤为重要，影响着模型的可靠性和有效性。",
+    "definition_en": "Stability refers to the consistency of a system's performance and functionality under varying conditions, serving as a crucial metric for evaluating models and algorithms. It is particularly important in machine learning and artificial intelligence, affecting the reliability and effectiveness of models."
   },
   {
     "en": "metric",
     "zh": "指标",
     "aliases": [],
-    "type": "concept"
+    "type": "concept",
+    "definition_zh": "指标是用于评估模型或算法性能的量化标准，常用于机器学习和人工智能领域。它可以帮助分析和优化系统的表现。",
+    "definition_en": "A metric is a quantitative standard used to evaluate the performance of a model or algorithm, commonly used in the fields of machine learning and artificial intelligence. It helps analyze and optimize system performance."
   },
   {
     "en": "data type",
     "zh": "数据类型",
     "aliases": [],
-    "type": "concept"
+    "type": "concept",
+    "definition_zh": "数据类型是指数据的不同形式和结构，用于在计算机科学和机器学习中组织和处理信息。它们在数据处理和算法设计中起着关键作用。",
+    "definition_en": "Data type refers to the different forms and structures of data used to organize and process information in computer science and machine learning. They play a critical role in data processing and algorithm design."
   },
   {
     "en": "data structure",
     "zh": "数据结构",
     "aliases": [],
-    "type": "concept"
+    "type": "concept",
+    "definition_zh": "数据结构是组织和存储数据的方式，能够有效地支持数据的访问和修改。它与数据类型、算法和数据库等概念密切相关。",
+    "definition_en": "Data structure is a way of organizing and storing data that efficiently supports data access and modification. It is closely related to concepts such as data types, algorithms, and databases."
   },
   {
     "en": "uncertainty",
     "zh": "不确定性",
     "aliases": [],
-    "type": "concept"
+    "type": "concept",
+    "definition_zh": "不确定性是指在数据分析和模型预测中，结果的不确定程度。它与概率、统计和复杂性等概念密切相关。",
+    "definition_en": "Uncertainty refers to the degree of unpredictability in data analysis and model predictions. It is closely related to concepts such as probability, statistics, and complexity."
   },
   {
     "en": "regularization",
     "zh": "正则",
     "aliases": [],
-    "type": "concept"
+    "type": "concept",
+    "definition_zh": "正则化是一种用于防止模型过拟合的技术，通常在优化算法和训练过程中应用。它通过添加惩罚项来调整模型的复杂度，从而提高模型的泛化能力。",
+    "definition_en": "Regularization is a technique used to prevent model overfitting, typically applied during optimization and training processes. It adjusts the model's complexity by adding a penalty term, thereby improving the model's generalization ability."
   },
   {
     "en": "data source",
     "zh": "数据源",
     "aliases": [],
-    "type": "concept"
+    "type": "concept",
+    "definition_zh": "数据源是指用于提供数据的来源，可以是数据库、文件或实时数据流等。它在数据处理和机器学习模型训练中起着重要的基础作用。",
+    "definition_en": "A data source refers to the origin of data, which can be a database, file, or real-time data stream. It plays a crucial foundational role in data processing and machine learning model training."
   },
   {
     "en": "dimension",
     "zh": "维度",
     "aliases": [],
-    "type": "concept"
+    "type": "concept",
+    "definition_zh": "在机器学习和数据分析中，维度指的是数据的特征或属性。它在数据处理和模型构建中起着关键作用。",
+    "definition_en": "In machine learning and data analysis, a dimension refers to the features or attributes of the data. It plays a key role in data processing and model building."
   },
   {
     "en": "ethics",
     "zh": "伦理",
     "aliases": [],
-    "type": "concept"
+    "type": "concept",
+    "definition_zh": "伦理在人工智能领域中涉及到如何在算法和模型的开发与应用中考虑道德和社会责任。它与安全性和框架等概念密切相关。",
+    "definition_en": "Ethics in the field of artificial intelligence involves considering moral and social responsibilities in the development and application of algorithms and models. It is closely related to concepts such as safety and frameworks."
   },
   {
     "en": "neural network",
     "zh": "神经网络",
     "aliases": [],
-    "type": "concept"
+    "type": "concept",
+    "definition_zh": "神经网络是一种模拟人脑神经元连接的计算模型，广泛应用于人工智能领域，尤其是在深度学习和模式识别中。它通过训练和优化来提高性能和准确性。",
+    "definition_en": "A neural network is a computational model that simulates the connections of neurons in the human brain, widely used in artificial intelligence, particularly in deep learning and pattern recognition. It improves performance and accuracy through training and optimization."
   },
   {
     "en": "fine-tuning",
     "zh": "微调",
     "aliases": [],
-    "type": "concept"
+    "type": "concept",
+    "definition_zh": "微调是机器学习中对预训练模型进行小幅调整的过程，以提高其在特定任务上的性能。它通常是在训练阶段之后进行的，旨在优化模型的表现。",
+    "definition_en": "Fine-tuning is the process of making small adjustments to a pre-trained model in machine learning to improve its performance on a specific task. It typically occurs after the training phase and aims to optimize the model's performance."
   },
   {
     "en": "intention",
     "zh": "意图",
     "aliases": [],
-    "type": "concept"
+    "type": "concept",
+    "definition_zh": "意图是指在人工智能和机器学习中，系统或用户所希望实现的目标或目的。它在对话系统和智能代理中尤为重要。",
+    "definition_en": "Intention refers to the goal or purpose that a system or user aims to achieve in artificial intelligence and machine learning. It is particularly important in dialogue systems and intelligent agents."
   },
   {
     "en": "feature extraction",
     "zh": "特征提取",
     "aliases": [],
-    "type": "concept"
+    "type": "concept",
+    "definition_zh": "特征提取是机器学习和数据处理中的一个重要步骤，旨在从原始数据中提取有用的信息以提高模型的性能。",
+    "definition_en": "Feature extraction is an important step in machine learning and data processing, aimed at extracting useful information from raw data to improve model performance."
   },
   {
     "en": "data format",
     "zh": "数据格式",
     "aliases": [],
-    "type": "concept"
+    "type": "concept",
+    "definition_zh": "数据格式是指数据的组织和表示方式，它在数据处理和分析中起着关键作用。选择合适的数据格式可以提高数据的可用性和处理效率。",
+    "definition_en": "Data format refers to the organization and representation of data, playing a crucial role in data processing and analysis. Choosing the appropriate data format can enhance data usability and processing efficiency."
   },
   {
     "en": "covariance",
     "zh": "协方差",
     "aliases": [],
-    "type": "concept"
+    "type": "concept",
+    "definition_zh": "协方差是统计学中的一个重要概念，用于衡量两个变量之间的关系和变化程度。它在数据分析和机器学习中具有广泛的应用，尤其是在特征选择和模型评估中。",
+    "definition_en": "Covariance is an important concept in statistics used to measure the relationship and degree of variation between two variables. It has wide applications in data analysis and machine learning, particularly in feature selection and model evaluation."
   },
   {
     "en": "threshold",
     "zh": "阈值",
     "aliases": [],
-    "type": "concept"
+    "type": "concept",
+    "definition_zh": "阈值是机器学习中用于判断分类或检测结果的关键参数，通常与算法、模型和评估方法相关。它在优化模型性能和评估结果时起着重要作用。",
+    "definition_en": "Threshold is a key parameter used in machine learning to determine classification or detection results, typically related to algorithms, models, and evaluation methods. It plays an important role in optimizing model performance and assessing results."
   },
   {
     "en": "Gaussian",
     "zh": "高斯",
     "aliases": [],
-    "type": "concept"
+    "type": "concept",
+    "definition_zh": "高斯是统计学中的一个重要概念，广泛应用于机器学习中的算法和模型中。它通常用于描述数据的分布特性。",
+    "definition_en": "Gaussian is an important concept in statistics, widely used in algorithms and models in machine learning. It is commonly used to describe the distribution characteristics of data."
   },
   {
     "en": "mean",
     "zh": "均值",
     "aliases": [],
-    "type": "concept"
+    "type": "concept",
+    "definition_zh": "均值是统计学中的一个重要概念，用于表示一组数据的中心位置。它在数据处理和机器学习中被广泛应用，尤其是在模型评估和优化中。",
+    "definition_en": "Mean is an important concept in statistics that represents the central position of a set of data. It is widely used in data processing and machine learning, particularly in model evaluation and optimization."
   },
   {
     "en": "pipeline",
     "zh": "管道",
     "aliases": [],
-    "type": "concept"
+    "type": "concept",
+    "definition_zh": "在机器学习中，管道指的是数据处理和模型训练的整个流程，通常包括数据的预处理、训练、评估等步骤。它有助于系统化和自动化机器学习工作流。",
+    "definition_en": "In machine learning, a pipeline refers to the entire process of data processing and model training, typically including steps such as data preprocessing, training, and evaluation. It helps to systematize and automate the machine learning workflow."
   },
   {
     "en": "information retrieval",
     "zh": "信息检索",
     "aliases": [],
-    "type": "concept"
+    "type": "concept",
+    "definition_zh": "信息检索是从大量数据中提取相关信息的过程，广泛应用于搜索引擎和数据库管理。它涉及数据处理、索引和分类等多个方面。",
+    "definition_en": "Information retrieval is the process of extracting relevant information from a large volume of data, widely used in search engines and database management. It involves various aspects such as data processing, indexing, and classification."
   },
   {
     "en": "clustering",
     "zh": "聚类",
     "aliases": [],
-    "type": "concept"
+    "type": "concept",
+    "definition_zh": "聚类是一种无监督学习方法，用于将数据集中的对象分组，使得同一组内的对象相似度较高，而不同组之间的对象相似度较低。",
+    "definition_en": "Clustering is an unsupervised learning method used to group objects in a dataset such that objects within the same group are more similar to each other, while objects in different groups are less similar."
   },
   {
     "en": "residual",
     "zh": "残差",
     "aliases": [],
-    "type": "concept"
+    "type": "concept",
+    "definition_zh": "残差是机器学习模型中预测值与真实值之间的差异，常用于评估模型的性能。它在优化和正则化过程中起着重要作用。",
+    "definition_en": "Residual is the difference between the predicted value and the true value in a machine learning model, commonly used to evaluate model performance. It plays an important role in optimization and regularization processes."
   },
   {
     "en": "image processing",
     "zh": "图像处理",
     "aliases": [],
-    "type": "concept"
+    "type": "concept",
+    "definition_zh": "图像处理是对图像进行分析和处理的技术，广泛应用于计算机视觉和人工智能领域。它涉及从图像中提取特征、分类和定位等任务。",
+    "definition_en": "Image processing is a technology for analyzing and processing images, widely used in computer vision and artificial intelligence. It involves tasks such as feature extraction, classification, and localization from images."
   },
   {
     "en": "computational resources",
     "zh": "计算资源",
     "aliases": [],
-    "type": "concept"
+    "type": "concept",
+    "definition_zh": "计算资源是指用于执行计算任务的硬件和软件资源，包括处理器、内存和存储等。它们在人工智能和机器学习中至关重要，影响模型的训练和推理效率。",
+    "definition_en": "Computational resources refer to the hardware and software resources used to execute computational tasks, including processors, memory, and storage. They are crucial in artificial intelligence and machine learning, affecting the efficiency of model training and inference."
   },
   {
     "en": "character recognition",
     "zh": "字符识别",
     "aliases": [],
-    "type": "concept"
+    "type": "concept",
+    "definition_zh": "字符识别是计算机视觉和模式识别领域中的一项技术，旨在识别和处理图像中的字符信息。它通常涉及图像处理、特征提取和分类等多个步骤。",
+    "definition_en": "Character recognition is a technology in the fields of computer vision and pattern recognition aimed at identifying and processing character information in images. It typically involves multiple steps such as image processing, feature extraction, and classification."
   },
   {
     "en": "sensor",
     "zh": "传感器",
     "aliases": [],
-    "type": "concept"
+    "type": "concept",
+    "definition_zh": "传感器是用于检测和测量环境中各种物理量的设备，广泛应用于监控和数据采集。它们可以作为数据源，为机器学习模型提供输入数据。",
+    "definition_en": "A sensor is a device used to detect and measure various physical quantities in the environment, widely applied in monitoring and data acquisition. They can serve as data sources, providing input data for machine learning models."
   },
   {
     "en": "gradient",
     "zh": "梯度",
     "aliases": [],
-    "type": "concept"
+    "type": "concept",
+    "definition_zh": "梯度是用于优化算法中的一个重要概念，通常用于计算模型参数的变化方向和大小。它在深度学习和机器学习中起着关键作用。",
+    "definition_en": "Gradient is an important concept in optimization algorithms, typically used to calculate the direction and magnitude of changes in model parameters. It plays a critical role in deep learning and machine learning."
   },
   {
     "en": "data center",
     "zh": "数据中心",
     "aliases": [],
-    "type": "concept"
+    "type": "concept",
+    "definition_zh": "数据中心是用于集中存储、管理和处理数据的设施，通常支持多种计算平台和架构。它们在数据处理和安全性方面起着关键作用。",
+    "definition_en": "A data center is a facility used for the centralized storage, management, and processing of data, typically supporting multiple computing platforms and architectures. They play a critical role in data processing and security."
   },
   {
     "en": "scalability",
     "zh": "可扩展性",
     "aliases": [],
-    "type": "concept"
+    "type": "concept",
+    "definition_zh": "可扩展性是指系统在处理增加的负载时能够有效扩展的能力，通常与架构、平台和性能密切相关。它在优化、数据处理和算法等方面具有重要的应用。",
+    "definition_en": "Scalability refers to the ability of a system to effectively expand when handling increased loads, often closely related to architecture, platform, and performance. It has significant applications in optimization, data processing, and algorithms."
   },
   {
     "en": "encryption",
     "zh": "加密",
     "aliases": [],
-    "type": "concept"
+    "type": "concept",
+    "definition_zh": "加密是一种保护信息安全的技术，通常用于确保数据在传输或存储过程中的安全性。它涉及使用算法将可读数据转换为不可读的格式，只有授权用户才能解密。",
+    "definition_en": "Encryption is a technique for protecting information security, typically used to ensure the safety of data during transmission or storage. It involves using algorithms to convert readable data into an unreadable format, which can only be decrypted by authorized users."
   },
   {
     "en": "classifier",
     "zh": "分类器",
     "aliases": [],
-    "type": "concept"
+    "type": "concept",
+    "definition_zh": "分类器是一种用于将数据分为不同类别的模型。它在机器学习中起着重要作用，通常通过训练数据来优化其性能。",
+    "definition_en": "A classifier is a model used to categorize data into different classes. It plays a crucial role in machine learning and is typically optimized through training data."
   },
   {
     "en": "streaming",
     "zh": "流式",
     "aliases": [],
-    "type": "concept"
+    "type": "concept",
+    "definition_zh": "流式处理是一种数据处理方式，允许数据在生成时被实时处理和分析。它广泛应用于实时分析和监控系统中。",
+    "definition_en": "Streaming is a data processing method that allows data to be processed and analyzed in real-time as it is generated. It is widely used in real-time analytics and monitoring systems."
   },
   {
     "en": "use case",
     "zh": "用例",
     "aliases": [],
-    "type": "concept"
+    "type": "concept",
+    "definition_zh": "用例是指在特定场景下应用某种技术或方法的实例，通常用于展示技术的实际效果和价值。它可以帮助团队理解如何将理论应用于实践。",
+    "definition_en": "A use case refers to an instance of applying a specific technology or method in a particular scenario, typically used to demonstrate the practical effects and value of the technology. It helps teams understand how to apply theory to practice."
   },
   {
     "en": "loss",
     "zh": "损失",
     "aliases": [],
-    "type": "concept"
+    "type": "concept",
+    "definition_zh": "损失是机器学习中用于衡量模型预测与实际结果之间差异的关键概念，通常在优化算法中使用。它帮助评估模型性能并指导训练过程。",
+    "definition_en": "Loss is a key concept in machine learning used to measure the difference between model predictions and actual outcomes, commonly used in optimization algorithms. It helps evaluate model performance and guides the training process."
   },
   {
     "en": "statistics",
     "zh": "统计学",
     "aliases": [],
-    "type": "concept"
+    "type": "concept",
+    "definition_zh": "统计学是研究数据收集、分析、解释和展示的科学，广泛应用于人工智能和机器学习中。它为算法和数据处理提供了理论基础。",
+    "definition_en": "Statistics is the science of collecting, analyzing, interpreting, and presenting data, widely applied in artificial intelligence and machine learning. It provides the theoretical foundation for algorithms and data processing."
   },
   {
     "en": "association",
     "zh": "关联",
     "aliases": [],
-    "type": "concept"
+    "type": "concept",
+    "definition_zh": "关联是指在数据中发现变量之间的关系，常用于分类和聚类等任务中。它在机器学习中帮助识别数据模式和预测结果。",
+    "definition_en": "Association refers to discovering relationships between variables in data, commonly used in tasks such as classification and clustering. It helps identify data patterns and predict outcomes in machine learning."
   },
   {
     "en": "n8n",
     "zh": null,
     "aliases": [],
-    "type": "product"
+    "type": "product",
+    "definition_zh": "n8n 是一个开源的自动化平台，允许用户通过可视化界面创建工作流。它支持多种插件和集成，适用于数据处理和任务自动化。",
+    "definition_en": "n8n is an open-source automation platform that allows users to create workflows through a visual interface. It supports various plugins and integrations, suitable for data processing and task automation."
   },
   {
     "en": "Azure",
     "zh": null,
     "aliases": [],
-    "type": "platform"
+    "type": "platform",
+    "definition_zh": "Azure是微软提供的云计算平台，支持多种人工智能和机器学习服务。它为开发者提供了强大的工具和资源，以构建和部署智能应用。",
+    "definition_en": "Azure is a cloud computing platform provided by Microsoft that supports various artificial intelligence and machine learning services. It offers developers powerful tools and resources to build and deploy intelligent applications."
   },
   {
     "en": "Google",
     "zh": null,
     "aliases": [],
-    "type": "company"
+    "type": "company",
+    "definition_zh": "Google是一家提供多种人工智能和机器学习解决方案的公司，涵盖了云计算、数据处理和深度学习等领域。",
+    "definition_en": "Google is a company that provides a variety of artificial intelligence and machine learning solutions, covering areas such as cloud computing, data processing, and deep learning."
   },
   {
     "en": "OpenAI",
     "zh": null,
     "aliases": [],
-    "type": "company"
+    "type": "company",
+    "definition_zh": "OpenAI是一家专注于人工智能研究和开发的公司，提供多种AI解决方案和平台。其产品包括大型语言模型（LLM）和其他智能应用。",
+    "definition_en": "OpenAI is a company focused on artificial intelligence research and development, offering various AI solutions and platforms. Its products include large language models (LLMs) and other intelligent applications."
   },
   {
     "en": "Microsoft",
     "zh": null,
     "aliases": [],
-    "type": "company"
+    "type": "company",
+    "definition_zh": "微软是一家全球知名的科技公司，提供多种人工智能和云计算解决方案。其产品包括Azure云平台和多种机器学习工具。",
+    "definition_en": "Microsoft is a globally renowned technology company that offers various artificial intelligence and cloud computing solutions. Its products include the Azure cloud platform and various machine learning tools."
   },
   {
     "en": "AWS",
     "zh": null,
     "aliases": [],
-    "type": "platform"
+    "type": "platform",
+    "definition_zh": "AWS是一个云计算平台，提供多种服务和解决方案，适用于人工智能和机器学习的应用。它支持数据处理、模型训练和部署等功能。",
+    "definition_en": "AWS is a cloud computing platform that offers a variety of services and solutions for applications in artificial intelligence and machine learning. It supports data processing, model training, and deployment functionalities."
   },
   {
     "en": "LLM",
@@ -660,7 +846,9 @@
     "aliases": [
       "大型语言模型"
     ],
-    "type": "concept"
+    "type": "concept",
+    "definition_zh": "大语言模型（LLM）是一种基于深度学习的人工智能模型，主要用于自然语言处理任务。它通过训练大量文本数据来生成和理解人类语言。",
+    "definition_en": "Large Language Model (LLM) is a deep learning-based AI model primarily used for natural language processing tasks. It generates and understands human language by training on vast amounts of text data."
   },
   {
     "en": "Codex",
@@ -668,7 +856,9 @@
     "aliases": [
       "codex"
     ],
-    "type": "product"
+    "type": "product",
+    "definition_zh": "Codex是一个基于人工智能的产品，旨在提供解决方案和平台，支持多种机器学习和自然语言处理任务。",
+    "definition_en": "Codex is an AI-based product designed to provide solutions and platforms that support various machine learning and natural language processing tasks."
   },
   {
     "en": "Docker",
@@ -676,67 +866,89 @@
     "aliases": [
       "docker"
     ],
-    "type": "platform"
+    "type": "platform",
+    "definition_zh": "Docker是一个开源的平台，用于自动化应用程序的部署、扩展和管理。它通过容器技术提供轻量级的虚拟化解决方案。",
+    "definition_en": "Docker is an open-source platform for automating the deployment, scaling, and management of applications. It provides a lightweight virtualization solution through container technology."
   },
   {
     "en": "OCR",
     "zh": "光学字符识别",
     "aliases": [],
-    "type": "concept"
+    "type": "concept",
+    "definition_zh": "光学字符识别（OCR）是一种利用计算机技术将图像中的文字信息转换为可编辑文本的技术，广泛应用于文档数字化和信息检索等领域。",
+    "definition_en": "Optical Character Recognition (OCR) is a technology that uses computer techniques to convert text information in images into editable text, widely used in document digitization and information retrieval."
   },
   {
     "en": "MCP",
     "zh": null,
     "aliases": [],
-    "type": "product"
+    "type": "product",
+    "definition_zh": "MCP是一种产品，通常用于提供特定的解决方案或平台，涉及多种算法和优化技术。它可以与多种框架和模型结合使用，以实现更高效的数据处理和分析。",
+    "definition_en": "MCP is a product typically used to provide specific solutions or platforms, involving various algorithms and optimization techniques. It can be combined with multiple frameworks and models to achieve more efficient data processing and analysis."
   },
   {
     "en": "pandas",
     "zh": null,
     "aliases": [],
-    "type": "framework"
+    "type": "framework",
+    "definition_zh": "Pandas是一个用于数据处理和分析的开源框架，特别适用于结构化数据。它提供了灵活的数据结构和数据分析工具，广泛应用于数据科学和机器学习领域。",
+    "definition_en": "Pandas is an open-source framework for data processing and analysis, particularly suited for structured data. It provides flexible data structures and data analysis tools, widely used in data science and machine learning."
   },
   {
     "en": "Cloud",
     "zh": "云",
     "aliases": [],
-    "type": "concept"
+    "type": "concept",
+    "definition_zh": "云计算是通过互联网提供计算资源和服务的模式，允许用户按需访问和管理数据和应用程序。它可以提高资源利用率和灵活性。",
+    "definition_en": "Cloud computing is a model that provides computing resources and services over the internet, allowing users to access and manage data and applications on demand. It can enhance resource utilization and flexibility."
   },
   {
     "en": "RAG",
     "zh": null,
     "aliases": [],
-    "type": "concept"
+    "type": "concept",
+    "definition_zh": "RAG（Retrieval-Augmented Generation）是一种结合检索和生成的模型框架，常用于增强生成任务的性能。它通过检索相关信息来提高生成内容的准确性和相关性。",
+    "definition_en": "RAG (Retrieval-Augmented Generation) is a model framework that combines retrieval and generation, commonly used to enhance the performance of generation tasks by retrieving relevant information to improve the accuracy and relevance of generated content."
   },
   {
     "en": "DataFrame",
     "zh": "数据框",
     "aliases": [],
-    "type": "concept"
+    "type": "concept",
+    "definition_zh": "数据框是一种用于存储和处理数据的二维数据结构，广泛应用于数据分析和机器学习。它可以看作是一个表格，包含行和列，便于数据的操作和分析。",
+    "definition_en": "A DataFrame is a two-dimensional data structure used for storing and processing data, widely applied in data analysis and machine learning. It can be viewed as a table containing rows and columns, facilitating data manipulation and analysis."
   },
   {
     "en": "GPU",
     "zh": "图形处理单元",
     "aliases": [],
-    "type": "concept"
+    "type": "concept",
+    "definition_zh": "图形处理单元（GPU）是用于加速图形和计算任务的硬件，广泛应用于深度学习和机器学习模型的训练与优化。它在数据处理和算法执行中扮演着重要角色。",
+    "definition_en": "Graphics Processing Unit (GPU) is hardware used to accelerate graphics and computational tasks, widely applied in the training and optimization of deep learning and machine learning models. It plays a crucial role in data processing and algorithm execution."
   },
   {
     "en": "cv2",
     "zh": null,
     "aliases": [],
-    "type": "framework"
+    "type": "framework",
+    "definition_zh": "cv2是一个开源计算机视觉框架，广泛用于图像处理和计算机视觉任务。它提供了多种功能和工具，支持图像分类、检测和其他相关应用。",
+    "definition_en": "cv2 is an open-source computer vision framework widely used for image processing and computer vision tasks. It provides various functions and tools, supporting image classification, detection, and other related applications."
   },
   {
     "en": "LangChain",
     "zh": null,
     "aliases": [],
-    "type": "framework"
+    "type": "framework",
+    "definition_zh": "LangChain 是一个用于构建语言模型应用的框架，支持多种功能和插件。它可以与不同的数据源和模型集成，帮助开发者快速构建智能应用。",
+    "definition_en": "LangChain is a framework for building language model applications, supporting various functionalities and plugins. It can integrate with different data sources and models, helping developers quickly create intelligent applications."
   },
   {
     "en": "sklearn",
     "zh": null,
     "aliases": [],
-    "type": "framework"
+    "type": "framework",
+    "definition_zh": "sklearn是一个开源的机器学习框架，提供了多种算法和工具用于模型训练和评估。它支持数据处理和特征提取，适用于各种机器学习任务。",
+    "definition_en": "sklearn is an open-source machine learning framework that provides various algorithms and tools for model training and evaluation. It supports data processing and feature extraction, suitable for a range of machine learning tasks."
   },
   {
     "en": "SQL",
@@ -744,115 +956,153 @@
     "aliases": [
       "sql"
     ],
-    "type": "concept"
+    "type": "concept",
+    "definition_zh": "SQL是一种用于管理和操作关系型数据库的结构化查询语言，广泛应用于数据存储和检索。它支持多种数据操作，包括查询、更新和删除数据。",
+    "definition_en": "SQL is a structured query language used for managing and manipulating relational databases, widely applied in data storage and retrieval. It supports various data operations, including querying, updating, and deleting data."
   },
   {
     "en": "PostgreSQL",
     "zh": null,
     "aliases": [],
-    "type": "database"
+    "type": "database",
+    "definition_zh": "PostgreSQL是一种开源关系数据库管理系统，广泛用于数据存储和处理。它支持多种数据类型和复杂查询，适合各种应用场景。",
+    "definition_en": "PostgreSQL is an open-source relational database management system widely used for data storage and processing. It supports various data types and complex queries, making it suitable for diverse application scenarios."
   },
   {
     "en": "Claude",
     "zh": "克劳德",
     "aliases": [],
-    "type": "product"
+    "type": "product",
+    "definition_zh": "Claude是一个基于人工智能的聊天平台，旨在提供智能对话和信息检索服务。它属于产品类别，结合了多种技术和解决方案。",
+    "definition_en": "Claude is an AI-based chat platform designed to provide intelligent conversation and information retrieval services. It falls under the product category, integrating various technologies and solutions."
   },
   {
     "en": "Regression",
     "zh": "回归",
     "aliases": [],
-    "type": "concept"
+    "type": "concept",
+    "definition_zh": "回归是一种统计分析方法，用于预测一个变量与一个或多个其他变量之间的关系。它在机器学习中被广泛应用于模型构建和性能评估。",
+    "definition_en": "Regression is a statistical analysis method used to predict the relationship between one variable and one or more other variables. It is widely used in machine learning for model building and performance evaluation."
   },
   {
     "en": "numpy",
     "zh": null,
     "aliases": [],
-    "type": "framework"
+    "type": "framework",
+    "definition_zh": "Numpy是一个用于科学计算的开源框架，提供高效的数组和矩阵操作功能。它在数据处理和机器学习中被广泛应用。",
+    "definition_en": "Numpy is an open-source framework for scientific computing that provides efficient array and matrix operations, widely used in data processing and machine learning."
   },
   {
     "en": "GitHub",
     "zh": null,
     "aliases": [],
-    "type": "platform"
+    "type": "platform",
+    "definition_zh": "GitHub 是一个开源平台，允许开发者进行代码托管和版本控制，促进协作与共享。它在云计算环境中提供服务，支持多种开发工具和插件。",
+    "definition_en": "GitHub is an open-source platform that allows developers to host and version control code, facilitating collaboration and sharing. It provides services in a cloud computing environment and supports various development tools and plugins."
   },
   {
     "en": "SharePoint",
     "zh": null,
     "aliases": [],
-    "type": "platform"
+    "type": "platform",
+    "definition_zh": "SharePoint是一个用于协作和文档管理的平台，通常用于企业环境中。它可以与多种云服务和解决方案集成，以提高工作效率。",
+    "definition_en": "SharePoint is a platform for collaboration and document management, commonly used in enterprise environments. It can integrate with various cloud services and solutions to enhance productivity."
   },
   {
     "en": "Webhook",
     "zh": null,
     "aliases": [],
-    "type": "concept"
+    "type": "concept",
+    "definition_zh": "Webhook是一种允许应用程序通过HTTP请求实时接收事件通知的机制。它通常用于集成不同的服务和自动化工作流程。",
+    "definition_en": "Webhook is a mechanism that allows applications to receive event notifications in real-time via HTTP requests. It is commonly used for integrating different services and automating workflows."
   },
   {
     "en": "Trigger",
     "zh": null,
     "aliases": [],
-    "type": "concept"
+    "type": "concept",
+    "definition_zh": "触发器是机器学习和人工智能中的一个重要概念，通常用于在特定条件下激活某个过程或功能。它可以在不同的应用场景中发挥作用，例如数据处理、模型训练和实时监控。",
+    "definition_en": "A trigger is an important concept in machine learning and artificial intelligence, typically used to activate a process or function under specific conditions. It can play a role in various application scenarios, such as data processing, model training, and real-time monitoring."
   },
   {
     "en": "MQTT",
     "zh": null,
     "aliases": [],
-    "type": "protocol"
+    "type": "protocol",
+    "definition_zh": "MQTT是一种轻量级的消息传递协议，广泛用于物联网设备之间的通信。它支持低带宽和高延迟的网络环境，适合实时数据传输。",
+    "definition_en": "MQTT is a lightweight messaging protocol widely used for communication between IoT devices. It supports low bandwidth and high latency network environments, making it suitable for real-time data transmission."
   },
   {
     "en": "prompt",
     "zh": "提示",
     "aliases": [],
-    "type": "concept"
+    "type": "concept",
+    "definition_zh": "在人工智能和机器学习中，提示（prompt）是用于引导模型生成特定输出的输入信息。它在自然语言处理和对话系统中尤为重要。",
+    "definition_en": "In artificial intelligence and machine learning, a prompt is input information used to guide a model in generating specific outputs. It is particularly important in natural language processing and dialogue systems."
   },
   {
     "en": "Supabase",
     "zh": null,
     "aliases": [],
-    "type": "platform"
+    "type": "platform",
+    "definition_zh": "Supabase 是一个开源平台，提供数据库和后端服务，旨在简化应用程序的开发。它使开发者能够快速构建和扩展应用程序，支持实时数据处理和身份验证。",
+    "definition_en": "Supabase is an open-source platform that provides database and backend services, designed to simplify application development. It enables developers to quickly build and scale applications, supporting real-time data processing and authentication."
   },
   {
     "en": "TTS",
     "zh": "文本转语音",
     "aliases": [],
-    "type": "concept"
+    "type": "concept",
+    "definition_zh": "文本转语音（TTS）是将书面文本转换为语音的技术，属于人工智能和语音处理的范畴。它通常涉及模型训练和算法优化，以提高语音的自然度和可理解性。",
+    "definition_en": "Text-to-Speech (TTS) is a technology that converts written text into spoken words, falling under the categories of artificial intelligence and speech processing. It typically involves model training and algorithm optimization to enhance the naturalness and intelligibility of the speech."
   },
   {
     "en": "Nominatim",
     "zh": null,
     "aliases": [],
-    "type": "service"
+    "type": "service",
+    "definition_zh": "Nominatim 是一个开源的地理位置服务，主要用于地址解析和地理信息检索。它可以通过数据库进行地理数据的索引和检索。",
+    "definition_en": "Nominatim is an open-source geolocation service primarily used for address parsing and geographic information retrieval. It indexes and retrieves geographic data through a database."
   },
   {
     "en": "geopy",
     "zh": null,
     "aliases": [],
-    "type": "library"
+    "type": "library",
+    "definition_zh": "geopy 是一个用于地理编码和地理信息处理的开源库，主要用于处理地理位置数据。它可以帮助开发者方便地进行地理位置的检索和转换。",
+    "definition_en": "geopy is an open-source library for geocoding and geographic information processing, primarily used for handling geographic location data. It helps developers easily retrieve and convert geographic locations."
   },
   {
     "en": "torch",
     "zh": null,
     "aliases": [],
-    "type": "framework"
+    "type": "framework",
+    "definition_zh": "Torch是一个开源的深度学习框架，广泛用于构建和训练神经网络模型。它提供了灵活的工具和库，支持多种机器学习任务。",
+    "definition_en": "Torch is an open-source deep learning framework widely used for building and training neural network models. It provides flexible tools and libraries that support various machine learning tasks."
   },
   {
     "en": "Pydantic",
     "zh": null,
     "aliases": [],
-    "type": "library"
+    "type": "library",
+    "definition_zh": "Pydantic 是一个用于数据验证和设置管理的 Python 库，主要用于构建数据模型和处理数据类型。它支持类型提示和数据验证，适合用于构建 API 和数据处理应用。",
+    "definition_en": "Pydantic is a Python library for data validation and settings management, primarily used for building data models and handling data types. It supports type hints and data validation, making it suitable for building APIs and data processing applications."
   },
   {
     "en": "LangGraph",
     "zh": null,
     "aliases": [],
-    "type": "framework"
+    "type": "framework",
+    "definition_zh": "LangGraph是一个用于图形数据处理的框架，通常与深度学习和人工智能相关联。它可以用于构建和优化图形模型，支持数据可视化和算法开发。",
+    "definition_en": "LangGraph is a framework for graph data processing, typically associated with deep learning and artificial intelligence. It can be used to build and optimize graph models, supporting data visualization and algorithm development."
   },
   {
     "en": "tokenizer",
     "zh": "分词器",
     "aliases": [],
-    "type": "concept"
+    "type": "concept",
+    "definition_zh": "分词器是用于将文本分割成更小的单元（如词或字符）的工具，通常用于自然语言处理任务中。它是数据处理和预处理的重要组成部分。",
+    "definition_en": "A tokenizer is a tool used to segment text into smaller units (such as words or characters), commonly employed in natural language processing tasks. It is a crucial component of data processing and preprocessing."
   },
   {
     "en": "Chatbot",
@@ -860,43 +1110,57 @@
     "aliases": [
       "Bot"
     ],
-    "type": "concept"
+    "type": "concept",
+    "definition_zh": "聊天机器人是一种基于人工智能的应用程序，能够与用户进行自然语言交互。它通常作为智能代理在各种平台上提供服务。",
+    "definition_en": "A chatbot is an AI-based application that can interact with users in natural language, typically serving as a smart agent across various platforms."
   },
   {
     "en": "NLP",
     "zh": "自然语言处理",
     "aliases": [],
-    "type": "concept"
+    "type": "concept",
+    "definition_zh": "自然语言处理（NLP）是人工智能的一个子领域，专注于计算机与人类语言之间的互动。它涉及多种技术和方法，用于理解、生成和处理自然语言。",
+    "definition_en": "Natural Language Processing (NLP) is a subfield of artificial intelligence that focuses on the interaction between computers and human language. It involves various techniques and methods for understanding, generating, and processing natural language."
   },
   {
     "en": "similar_words",
     "zh": "相似词",
     "aliases": [],
-    "type": "concept"
+    "type": "concept",
+    "definition_zh": "相似词是指在语义或上下文上相近的词汇，常用于自然语言处理和信息检索等领域。通过算法和数据处理技术，可以有效地识别和生成相似词。",
+    "definition_en": "Similar words refer to vocabulary that is close in meaning or context, commonly used in natural language processing and information retrieval. Algorithms and data processing techniques can effectively identify and generate similar words."
   },
   {
     "en": "DeepSeek",
     "zh": "深度求索",
     "aliases": [],
-    "type": "product"
+    "type": "product",
+    "definition_zh": "DeepSeek是一个基于深度学习的智能搜索平台，旨在通过优化算法和数据处理技术提高信息检索的效率和准确性。",
+    "definition_en": "DeepSeek is an intelligent search platform based on deep learning, designed to enhance the efficiency and accuracy of information retrieval through optimization algorithms and data processing techniques."
   },
   {
     "en": "Mistral",
     "zh": null,
     "aliases": [],
-    "type": "company"
+    "type": "company",
+    "definition_zh": "Mistral是一家专注于人工智能和机器学习的公司，提供各种解决方案和平台。它的产品包括模型、框架和算法，旨在推动AI技术的发展。",
+    "definition_en": "Mistral is a company focused on artificial intelligence and machine learning, offering various solutions and platforms. Its products include models, frameworks, and algorithms aimed at advancing AI technology."
   },
   {
     "en": "NVIDIA",
     "zh": null,
     "aliases": [],
-    "type": "company"
+    "type": "company",
+    "definition_zh": "NVIDIA是一家专注于图形处理单元（GPU）和人工智能技术的公司，广泛应用于深度学习和数据中心等领域。",
+    "definition_en": "NVIDIA is a company focused on graphics processing units (GPUs) and artificial intelligence technology, widely used in fields such as deep learning and data centers."
   },
   {
     "en": "PaddleOCR",
     "zh": null,
     "aliases": [],
-    "type": "product"
+    "type": "product",
+    "definition_zh": "PaddleOCR是一个开源的OCR（光学字符识别）框架，旨在提供高效的文本检测和识别解决方案。它利用深度学习技术，支持多种语言和场景的字符识别。",
+    "definition_en": "PaddleOCR is an open-source OCR (Optical Character Recognition) framework designed to provide efficient text detection and recognition solutions. It leverages deep learning technology and supports character recognition in multiple languages and scenarios."
   },
   {
     "en": "Tesseract",
@@ -904,79 +1168,105 @@
     "aliases": [
       "pytesseract"
     ],
-    "type": "product"
+    "type": "product",
+    "definition_zh": "Tesseract 是一个开源的光学字符识别 (OCR) 引擎，能够将图像中的文本提取出来。它常用于图像处理和数据处理任务。",
+    "definition_en": "Tesseract is an open-source optical character recognition (OCR) engine that extracts text from images. It is commonly used in image processing and data processing tasks."
   },
   {
     "en": "scikit-learn",
     "zh": null,
     "aliases": [],
-    "type": "framework"
+    "type": "framework",
+    "definition_zh": "scikit-learn是一个用于机器学习的开源框架，提供多种模型和算法的实现，方便用户进行数据处理和模型训练。",
+    "definition_en": "scikit-learn is an open-source framework for machine learning that provides implementations of various models and algorithms, facilitating data processing and model training for users."
   },
   {
     "en": "transformers",
     "zh": null,
     "aliases": [],
-    "type": "framework"
+    "type": "framework",
+    "definition_zh": "Transformers是一种深度学习架构，广泛应用于自然语言处理和计算机视觉等领域。它们通过自注意力机制有效地处理序列数据。",
+    "definition_en": "Transformers are a deep learning architecture widely used in natural language processing and computer vision. They effectively handle sequence data through self-attention mechanisms."
   },
   {
     "en": "LinearRegression",
     "zh": "线性回归",
     "aliases": [],
-    "type": "concept"
+    "type": "concept",
+    "definition_zh": "线性回归是一种用于预测的统计方法，通过建立自变量与因变量之间的线性关系来进行分析。它在机器学习中常用作基础模型，帮助理解数据的趋势。",
+    "definition_en": "Linear regression is a statistical method used for prediction by establishing a linear relationship between independent and dependent variables. It is commonly used as a foundational model in machine learning to help understand data trends."
   },
   {
     "en": "Kernel",
     "zh": "核",
     "aliases": [],
-    "type": "concept"
+    "type": "concept",
+    "definition_zh": "核是机器学习中用于将数据映射到高维空间的技术，常用于支持向量机等算法中。它帮助提高模型的性能和准确性。",
+    "definition_en": "Kernel is a technique in machine learning used to map data into high-dimensional space, commonly employed in algorithms like support vector machines. It helps enhance model performance and accuracy."
   },
   {
     "en": "mpi4py",
     "zh": null,
     "aliases": [],
-    "type": "framework"
+    "type": "framework",
+    "definition_zh": "mpi4py是一个用于并行计算的Python框架，支持多种数据处理和优化任务。它在深度学习和机器学习的训练过程中常被使用。",
+    "definition_en": "mpi4py is a Python framework for parallel computing that supports various data processing and optimization tasks. It is commonly used in the training processes of deep learning and machine learning."
   },
   {
     "en": "folium",
     "zh": null,
     "aliases": [],
-    "type": "framework"
+    "type": "framework",
+    "definition_zh": "Folium是一个用于创建交互式地图的开源框架，通常用于数据可视化和地理信息处理。它可以与其他数据处理和可视化工具结合使用。",
+    "definition_en": "Folium is an open-source framework for creating interactive maps, commonly used for data visualization and geographic information processing. It can be integrated with other data processing and visualization tools."
   },
   {
     "en": "open-webui",
     "zh": null,
     "aliases": [],
-    "type": "platform"
+    "type": "platform",
+    "definition_zh": "open-webui 是一个基于开放源代码的人工智能平台，旨在提供用户友好的界面和工具，以便于开发和部署机器学习模型。",
+    "definition_en": "open-webui is an open-source AI platform designed to provide a user-friendly interface and tools for developing and deploying machine learning models."
   },
   {
     "en": "workflow",
     "zh": "工作流",
     "aliases": [],
-    "type": "concept"
+    "type": "concept",
+    "definition_zh": "工作流是指在特定的业务或技术环境中，按照一定的顺序和规则处理信息和任务的过程。它通常涉及多个组件和步骤，以实现高效的工作和数据流动。",
+    "definition_en": "Workflow refers to the process of handling information and tasks in a specific business or technical environment according to a defined sequence and rules. It typically involves multiple components and steps to achieve efficient work and data flow."
   },
   {
     "en": "minerU",
     "zh": null,
     "aliases": [],
-    "type": "product"
+    "type": "product",
+    "definition_zh": "minerU 是一个用于数据处理和分析的产品，旨在提供高效的解决方案和平台。它可以集成多种算法和模型，以优化训练过程。",
+    "definition_en": "minerU is a product for data processing and analysis, designed to provide efficient solutions and platforms. It can integrate various algorithms and models to optimize the training process."
   },
   {
     "en": "olmocr",
     "zh": null,
     "aliases": [],
-    "type": "product"
+    "type": "product",
+    "definition_zh": "olmocr 是一个产品，涉及到多种 AI/ML 技术和解决方案，旨在提供高效的智能服务。",
+    "definition_en": "olmocr is a product that involves various AI/ML technologies and solutions aimed at providing efficient intelligent services."
   },
   {
     "en": "NotebookLM",
     "zh": null,
     "aliases": [],
-    "type": "product"
+    "type": "product",
+    "definition_zh": "NotebookLM 是一种产品，旨在提供便捷的人工智能和机器学习解决方案，支持多种数据处理和模型评估功能。",
+    "definition_en": "NotebookLM is a product designed to provide convenient artificial intelligence and machine learning solutions, supporting various data processing and model evaluation functions."
   },
   {
     "en": "RTX",
     "zh": null,
     "aliases": [],
-    "type": "product"
+    "type": "product",
+    "definition_zh": "RTX是一种产品，通常用于人工智能和机器学习领域，涉及多种技术和解决方案。它可以作为一个平台，支持各种算法和优化框架。",
+    "definition_en": "RTX is a product commonly used in the fields of artificial intelligence and machine learning, involving various technologies and solutions. It can serve as a platform supporting a range of algorithms and optimization frameworks."
   },
   {
     "en": "embedding",
@@ -985,7 +1275,9 @@
       "embeddings",
       "向量嵌入"
     ],
-    "type": "concept"
+    "type": "concept",
+    "definition_zh": "嵌入是将高维数据映射到低维空间的技术，常用于机器学习和深度学习中以提高模型的表现。它在自然语言处理和计算机视觉等领域中尤为重要。",
+    "definition_en": "Embedding is a technique that maps high-dimensional data to a lower-dimensional space, commonly used in machine learning and deep learning to enhance model performance. It is particularly important in fields such as natural language processing and computer vision."
   },
   {
     "en": "GPT",
@@ -994,19 +1286,25 @@
       "GPT-4",
       "ChatGPT"
     ],
-    "type": "product"
+    "type": "product",
+    "definition_zh": "GPT是一种基于深度学习的语言模型，能够生成自然语言文本。它是人工智能领域中的一个重要产品，广泛应用于聊天机器人和文本生成等场景。",
+    "definition_en": "GPT is a deep learning-based language model capable of generating natural language text. It is an important product in the field of artificial intelligence, widely used in scenarios such as chatbots and text generation."
   },
   {
     "en": "PyTorch",
     "zh": null,
     "aliases": [],
-    "type": "framework"
+    "type": "framework",
+    "definition_zh": "PyTorch是一个开源深度学习框架，广泛用于构建和训练神经网络模型。它提供了灵活的工具和库，支持高效的模型开发和优化。",
+    "definition_en": "PyTorch is an open-source deep learning framework widely used for building and training neural network models. It provides flexible tools and libraries that support efficient model development and optimization."
   },
   {
     "en": "Flask",
     "zh": null,
     "aliases": [],
-    "type": "framework"
+    "type": "framework",
+    "definition_zh": "Flask 是一个用于构建 web 应用程序的轻量级框架，属于开源软件。它提供了多种插件和组件，便于开发者进行数据处理和监控。",
+    "definition_en": "Flask is a lightweight framework for building web applications, classified as open-source software. It offers various plugins and components to facilitate data processing and monitoring for developers."
   },
   {
     "en": "gcloud",
@@ -1014,25 +1312,33 @@
     "aliases": [
       "Google Cloud"
     ],
-    "type": "platform"
+    "type": "platform",
+    "definition_zh": "gcloud 是一个云平台，提供各种计算资源和服务，支持机器学习和人工智能应用的开发与部署。它是 Google 提供的服务，允许用户在云端运行和管理应用程序。",
+    "definition_en": "gcloud is a cloud platform that provides various computing resources and services to support the development and deployment of machine learning and artificial intelligence applications. It is a service offered by Google that allows users to run and manage applications in the cloud."
   },
   {
     "en": "Amazon",
     "zh": null,
     "aliases": [],
-    "type": "company"
+    "type": "company",
+    "definition_zh": "亚马逊是一家提供云计算服务的公司，尤其以其AWS平台而闻名。它在人工智能和机器学习领域也有广泛的应用。",
+    "definition_en": "Amazon is a company that provides cloud computing services, particularly known for its AWS platform. It also has extensive applications in artificial intelligence and machine learning."
   },
   {
     "en": "Anthropic",
     "zh": null,
     "aliases": [],
-    "type": "company"
+    "type": "company",
+    "definition_zh": "Anthropic是一家专注于人工智能的公司，致力于开发先进的AI模型和解决方案。它的产品包括各种AI平台和框架，旨在推动人工智能技术的发展。",
+    "definition_en": "Anthropic is a company focused on artificial intelligence, dedicated to developing advanced AI models and solutions. Its products include various AI platforms and frameworks aimed at advancing AI technology."
   },
   {
     "en": "Suno",
     "zh": null,
     "aliases": [],
-    "type": "company"
+    "type": "company",
+    "definition_zh": "Suno是一家专注于人工智能和机器学习的公司，提供多种解决方案和平台。",
+    "definition_en": "Suno is a company focused on artificial intelligence and machine learning, offering a variety of solutions and platforms."
   },
   {
     "en": "LSTM",
@@ -1040,7 +1346,9 @@
     "aliases": [
       "Long Short-Term Memory"
     ],
-    "type": "concept"
+    "type": "concept",
+    "definition_zh": "长短期记忆（LSTM）是一种特殊的递归神经网络（RNN），用于处理和预测序列数据。它在深度学习中广泛应用于时间序列预测和自然语言处理等领域。",
+    "definition_en": "Long Short-Term Memory (LSTM) is a special type of recurrent neural network (RNN) used for processing and predicting sequence data. It is widely applied in deep learning for time series forecasting and natural language processing."
   },
   {
     "en": "Nadaraya-Watson",
@@ -1048,7 +1356,9 @@
     "aliases": [
       "Nadaraya-Watson回归"
     ],
-    "type": "concept"
+    "type": "concept",
+    "definition_zh": "Nadaraya-Watson是一种用于非参数回归的算法，通常用于预测和数据平滑。它通过加权平均的方法来估计目标变量的值。",
+    "definition_en": "Nadaraya-Watson is a non-parametric regression algorithm commonly used for prediction and data smoothing. It estimates the value of the target variable using a weighted average method."
   },
   {
     "en": "LDA",
@@ -1056,55 +1366,73 @@
     "aliases": [
       "Linear Discriminant Analysis"
     ],
-    "type": "concept"
+    "type": "concept",
+    "definition_zh": "线性判别分析（LDA）是一种用于分类的统计方法，旨在通过寻找最佳投影方向来最大化类间差异并最小化类内差异。它常用于模式识别和机器学习中的特征提取和分类任务。",
+    "definition_en": "Linear Discriminant Analysis (LDA) is a statistical method used for classification, aimed at maximizing inter-class differences and minimizing intra-class differences by finding the optimal projection direction. It is commonly used in feature extraction and classification tasks in pattern recognition and machine learning."
   },
   {
     "en": "matrix",
     "zh": "矩阵",
     "aliases": [],
-    "type": "concept"
+    "type": "concept",
+    "definition_zh": "矩阵是数学和计算机科学中的一种数据结构，广泛用于机器学习和深度学习中的模型表示和数据处理。它可以用于表示特征、权重和其他重要的数值信息。",
+    "definition_en": "A matrix is a data structure in mathematics and computer science, widely used for model representation and data processing in machine learning and deep learning. It can represent features, weights, and other important numerical information."
   },
   {
     "en": "TimeseriesData",
     "zh": "时间序列数据",
     "aliases": [],
-    "type": "concept"
+    "type": "concept",
+    "definition_zh": "时间序列数据是一种特殊的数据类型，通常用于分析和预测随时间变化的数据。它可以通过多种方法进行处理和可视化，以便提取有用的信息。",
+    "definition_en": "TimeseriesData is a special type of data typically used for analyzing and forecasting data that changes over time. It can be processed and visualized using various methods to extract useful information."
   },
   {
     "en": "unstructured",
     "zh": "非结构化",
     "aliases": [],
-    "type": "concept"
+    "type": "concept",
+    "definition_zh": "非结构化数据是指不符合预定义数据模型的数据类型，例如文本、图像和音频等。它们通常需要特殊的处理和分析方法。",
+    "definition_en": "Unstructured data refers to data types that do not conform to predefined data models, such as text, images, and audio. They typically require specialized processing and analysis methods."
   },
   {
     "en": "MLAI",
     "zh": null,
     "aliases": [],
-    "type": "concept"
+    "type": "concept",
+    "definition_zh": "MLAI是人工智能和机器学习的结合，涉及算法、模型和训练等多个方面。它在数据处理和智能决策中发挥着重要作用。",
+    "definition_en": "MLAI is the combination of artificial intelligence and machine learning, involving multiple aspects such as algorithms, models, and training. It plays a significant role in data processing and intelligent decision-making."
   },
   {
     "en": "api_key",
     "zh": "API密钥",
     "aliases": [],
-    "type": "concept"
+    "type": "concept",
+    "definition_zh": "API密钥是一种用于身份验证和授权的安全凭证，通常用于访问API服务。它在数据交换和服务调用中起着关键作用。",
+    "definition_en": "An API key is a secure credential used for authentication and authorization, typically for accessing API services. It plays a critical role in data exchange and service calls."
   },
   {
     "en": "Tailscale",
     "zh": null,
     "aliases": [],
-    "type": "company"
+    "type": "company",
+    "definition_zh": "Tailscale 是一个提供安全网络连接的公司，主要通过其平台和解决方案来实现数据的安全传输和访问。",
+    "definition_en": "Tailscale is a company that provides secure network connections, primarily enabling secure data transmission and access through its platform and solutions."
   },
   {
     "en": "seaborn",
     "zh": null,
     "aliases": [],
-    "type": "framework"
+    "type": "framework",
+    "definition_zh": "Seaborn 是一个基于 Matplotlib 的数据可视化库，旨在使统计图形的创建变得更加简单和美观。它提供了多种图表类型和样式，适用于数据分析和展示。",
+    "definition_en": "Seaborn is a data visualization library based on Matplotlib, designed to simplify and enhance the creation of statistical graphics. It offers various chart types and styles suitable for data analysis and presentation."
   },
   {
     "en": "PolynomialFeatures",
     "zh": null,
     "aliases": [],
-    "type": "concept"
+    "type": "concept",
+    "definition_zh": "PolynomialFeatures 是用于生成多项式特征的工具，常用于提高模型的表现。它通过对输入特征进行多项式变换来增强数据集的特征空间。",
+    "definition_en": "PolynomialFeatures is a tool used to generate polynomial features, commonly employed to enhance model performance. It augments the feature space of the dataset by applying polynomial transformations to the input features."
   },
   {
     "en": "LBP",
@@ -1112,19 +1440,25 @@
     "aliases": [
       "Local Binary Patterns"
     ],
-    "type": "concept"
+    "type": "concept",
+    "definition_zh": "局部二值模式（LBP）是一种用于图像处理和特征提取的技术，常用于图像分类和目标检测等任务。它通过分析图像的局部纹理特征来实现对图像的有效描述。",
+    "definition_en": "Local Binary Pattern (LBP) is a technique used for image processing and feature extraction, commonly applied in tasks such as image classification and object detection. It effectively describes images by analyzing local texture features."
   },
   {
     "en": "Context",
     "zh": null,
     "aliases": [],
-    "type": "concept"
+    "type": "concept",
+    "definition_zh": "上下文是指在特定环境或条件下理解和处理信息的方式。在人工智能和机器学习中，考虑上下文有助于提高模型的准确性和相关性。",
+    "definition_en": "Context refers to the manner of understanding and processing information within a specific environment or conditions. In artificial intelligence and machine learning, considering context helps improve the accuracy and relevance of models."
   },
   {
     "en": "Spline",
     "zh": "样条",
     "aliases": [],
-    "type": "concept"
+    "type": "concept",
+    "definition_zh": "样条是一种用于数据插值和曲线拟合的数学工具，广泛应用于计算机图形学和数据建模中。它可以通过控制点生成平滑的曲线或曲面。",
+    "definition_en": "A spline is a mathematical tool used for data interpolation and curve fitting, widely applied in computer graphics and data modeling. It generates smooth curves or surfaces through control points."
   },
   {
     "en": "mpi",
@@ -1132,19 +1466,25 @@
     "aliases": [
       "Message Passing Interface"
     ],
-    "type": "concept"
+    "type": "concept",
+    "definition_zh": "mpi（消息传递接口）是一种用于并行计算的通信协议，常用于深度学习和机器学习框架中。它支持多种算法和优化方法，以提高模型的训练和评估性能。",
+    "definition_en": "mpi (Message Passing Interface) is a communication protocol used for parallel computing, commonly employed in deep learning and machine learning frameworks. It supports various algorithms and optimization methods to enhance model training and evaluation performance."
   },
   {
     "en": "Startmate",
     "zh": null,
     "aliases": [],
-    "type": "company"
+    "type": "company",
+    "definition_zh": "Startmate 是一家专注于人工智能和机器学习解决方案的公司，提供多种平台和优化工具以支持数据处理和模型训练。",
+    "definition_en": "Startmate is a company focused on artificial intelligence and machine learning solutions, offering various platforms and optimization tools to support data processing and model training."
   },
   {
     "en": "llama",
     "zh": null,
     "aliases": [],
-    "type": "product"
+    "type": "product",
+    "definition_zh": "Llama 是一种大型语言模型（LLM），用于自然语言处理任务。它可以通过训练和优化来提高性能，适用于聊天和其他应用平台。",
+    "definition_en": "Llama is a large language model (LLM) used for natural language processing tasks. It can improve performance through training and optimization, suitable for chat and other application platforms."
   },
   {
     "en": "hallucination",
@@ -1153,7 +1493,9 @@
       "幻觉问题",
       "AI幻觉"
     ],
-    "type": "concept"
+    "type": "concept",
+    "definition_zh": "在人工智能和深度学习中，幻觉指的是模型生成的虚假或不准确的输出。它通常出现在生成模型中，如聊天机器人或图像生成系统。",
+    "definition_en": "In artificial intelligence and deep learning, hallucination refers to false or inaccurate outputs generated by a model, commonly occurring in generative models such as chatbots or image generation systems."
   },
   {
     "en": "token",
@@ -1161,7 +1503,9 @@
     "aliases": [
       "tokens"
     ],
-    "type": "concept"
+    "type": "concept",
+    "definition_zh": "令牌是自然语言处理中的基本单位，用于表示文本中的词或字符。它在模型训练和数据处理过程中起着重要作用。",
+    "definition_en": "A token is a fundamental unit in natural language processing, used to represent words or characters in text. It plays a crucial role in model training and data processing."
   },
   {
     "en": "prompt engineering",
@@ -1170,7 +1514,9 @@
       "提示词工程",
       "Prompt Engineering"
     ],
-    "type": "concept"
+    "type": "concept",
+    "definition_zh": "提示工程是指通过设计和优化输入提示来提高人工智能模型的性能和响应质量。它在机器学习和人工智能领域中扮演着重要角色，尤其是在自然语言处理任务中。",
+    "definition_en": "Prompt engineering refers to the design and optimization of input prompts to enhance the performance and response quality of artificial intelligence models. It plays a crucial role in the fields of machine learning and artificial intelligence, particularly in natural language processing tasks."
   },
   {
     "en": "context window",
@@ -1178,7 +1524,9 @@
     "aliases": [
       "上下文长度"
     ],
-    "type": "concept"
+    "type": "concept",
+    "definition_zh": "上下文窗口是深度学习和神经网络中用于处理序列数据的重要概念，能够帮助模型理解输入数据的上下文信息。",
+    "definition_en": "A context window is an important concept in deep learning and neural networks used for processing sequential data, helping models understand the contextual information of input data."
   },
   {
     "en": "inference",
@@ -1186,7 +1534,9 @@
     "aliases": [
       "模型推理"
     ],
-    "type": "concept"
+    "type": "concept",
+    "definition_zh": "推理是人工智能中的一个重要概念，涉及从模型中得出结论或进行预测。它通常依赖于算法和模型来处理数据并生成结果。",
+    "definition_en": "Inference is an important concept in artificial intelligence that involves drawing conclusions or making predictions from a model. It typically relies on algorithms and models to process data and generate results."
   },
   {
     "en": "multimodal",
@@ -1194,7 +1544,9 @@
     "aliases": [
       "多模态模型"
     ],
-    "type": "concept"
+    "type": "concept",
+    "definition_zh": "多模态指的是结合多种数据类型（如图像、声音和文本）进行处理和分析的能力，在人工智能和机器学习中具有重要应用。它能够提高模型的表现和适应性。",
+    "definition_en": "Multimodal refers to the ability to process and analyze multiple types of data (such as images, sound, and text) and has significant applications in artificial intelligence and machine learning. It enhances model performance and adaptability."
   },
   {
     "en": "Hugging Face",
@@ -1203,13 +1555,17 @@
       "HuggingFace",
       "huggingface"
     ],
-    "type": "platform"
+    "type": "platform",
+    "definition_zh": "Hugging Face是一个开源平台，专注于人工智能和深度学习模型的开发与应用。它提供了多种工具和框架，支持模型的训练和优化。",
+    "definition_en": "Hugging Face is an open-source platform focused on the development and application of artificial intelligence and deep learning models. It provides various tools and frameworks to support model training and optimization."
   },
   {
     "en": "Ollama",
     "zh": null,
     "aliases": [],
-    "type": "product"
+    "type": "product",
+    "definition_zh": "Ollama 是一个开源平台，旨在简化人工智能模型的使用和部署，特别是在聊天和语音应用方面。",
+    "definition_en": "Ollama is an open-source platform designed to simplify the use and deployment of artificial intelligence models, particularly in chat and voice applications."
   },
   {
     "en": "alignment",
@@ -1217,19 +1573,25 @@
     "aliases": [
       "AI对齐"
     ],
-    "type": "concept"
+    "type": "concept",
+    "definition_zh": "对齐是指确保机器学习模型的目标与人类的期望一致的过程。它在人工智能系统的开发和优化中扮演着重要角色。",
+    "definition_en": "Alignment refers to the process of ensuring that the objectives of a machine learning model are consistent with human expectations. It plays a crucial role in the development and optimization of artificial intelligence systems."
   },
   {
     "en": "Gemini",
     "zh": null,
     "aliases": [],
-    "type": "product"
+    "type": "product",
+    "definition_zh": "Gemini 是一个人工智能产品，旨在提供高效的解决方案和平台，支持多种机器学习模型和算法的开发与应用。",
+    "definition_en": "Gemini is an artificial intelligence product designed to provide efficient solutions and a platform that supports the development and application of various machine learning models and algorithms."
   },
   {
     "en": "Whisper",
     "zh": null,
     "aliases": [],
-    "type": "product"
+    "type": "product",
+    "definition_zh": "Whisper 是一种基于深度学习的语音识别模型，能够处理和生成自然语言。它在人工智能领域中应用广泛，尤其是在语音交互和聊天机器人中。",
+    "definition_en": "Whisper is a deep learning-based speech recognition model capable of processing and generating natural language. It is widely used in the field of artificial intelligence, particularly in voice interaction and chatbots."
   },
   {
     "en": "human in the loop",
@@ -1238,19 +1600,25 @@
       "HITL",
       "人在回路"
     ],
-    "type": "concept"
+    "type": "concept",
+    "definition_zh": "人机协作是指在人工智能和机器人技术中，人类与机器共同参与决策和执行任务的过程。通过这种方式，可以提高系统的效率和准确性。",
+    "definition_en": "Human in the loop refers to the process in artificial intelligence and robotics where humans and machines collaboratively participate in decision-making and task execution, enhancing system efficiency and accuracy."
   },
   {
     "en": "Grok",
     "zh": null,
     "aliases": [],
-    "type": "product"
+    "type": "product",
+    "definition_zh": "Grok 是一种产品，通常与人工智能和机器学习解决方案相关联，旨在提供智能化的交互和个性化体验。它可以作为一个平台，支持多种功能和应用。",
+    "definition_en": "Grok is a product typically associated with artificial intelligence and machine learning solutions, designed to provide intelligent interactions and personalized experiences. It can serve as a platform supporting various functions and applications."
   },
   {
     "en": "BERT",
     "zh": null,
     "aliases": [],
-    "type": "concept"
+    "type": "concept",
+    "definition_zh": "BERT是一种基于深度学习的语言模型，广泛用于自然语言处理任务。它通过预训练和微调的方式来提高模型的性能。",
+    "definition_en": "BERT is a deep learning-based language model widely used for natural language processing tasks. It improves model performance through pre-training and fine-tuning."
   },
   {
     "en": "diffusion model",
@@ -1258,7 +1626,9 @@
     "aliases": [
       "diffusion"
     ],
-    "type": "concept"
+    "type": "concept",
+    "definition_zh": "扩散模型是一种用于生成数据的模型，通常应用于图像生成和其他深度学习任务。它通过模拟数据的扩散过程来进行训练和优化。",
+    "definition_en": "A diffusion model is a type of model used for data generation, commonly applied in image generation and other deep learning tasks. It is trained and optimized by simulating the diffusion process of data."
   },
   {
     "en": "Stable Diffusion",
@@ -1266,19 +1636,25 @@
     "aliases": [
       "SD"
     ],
-    "type": "product"
+    "type": "product",
+    "definition_zh": "Stable Diffusion是一种基于深度学习的图像生成模型，能够通过优化算法生成高质量的图像。它通常使用特定的框架和模型进行训练和评估。",
+    "definition_en": "Stable Diffusion is a deep learning-based image generation model that generates high-quality images through optimization algorithms. It is typically trained and evaluated using specific frameworks and models."
   },
   {
     "en": "OpenRouter",
     "zh": null,
     "aliases": [],
-    "type": "platform"
+    "type": "platform",
+    "definition_zh": "OpenRouter 是一个开放源代码的平台，旨在支持人工智能和机器学习的各种应用。它可以用于构建和优化不同的AI/ML解决方案。",
+    "definition_en": "OpenRouter is an open-source platform designed to support various applications of artificial intelligence and machine learning. It can be used to build and optimize different AI/ML solutions."
   },
   {
     "en": "LangSmith",
     "zh": null,
     "aliases": [],
-    "type": "product"
+    "type": "product",
+    "definition_zh": "LangSmith 是一个用于构建和优化语言模型的产品，属于人工智能和机器学习领域。它提供了多种工具和框架，帮助用户进行模型训练和评估。",
+    "definition_en": "LangSmith is a product for building and optimizing language models, belonging to the field of artificial intelligence and machine learning. It provides various tools and frameworks to assist users in model training and evaluation."
   },
   {
     "en": "chain of thought",
@@ -1286,13 +1662,17 @@
     "aliases": [
       "CoT"
     ],
-    "type": "concept"
+    "type": "concept",
+    "definition_zh": "思维链是指在人工智能和机器学习中，通过一系列逻辑推理和步骤来解决问题的过程。它通常涉及模型的训练、评估和优化等多个方面。",
+    "definition_en": "Chain of thought refers to the process in artificial intelligence and machine learning of solving problems through a series of logical reasoning and steps. It typically involves multiple aspects such as model training, evaluation, and optimization."
   },
   {
     "en": "RLHF",
     "zh": "人类反馈强化学习",
     "aliases": [],
-    "type": "concept"
+    "type": "concept",
+    "definition_zh": "人类反馈强化学习（RLHF）是一种结合了人类反馈的强化学习方法，旨在提升模型的学习效率和效果。它在人工智能领域中被广泛应用于优化和训练智能体。",
+    "definition_en": "Reinforcement Learning from Human Feedback (RLHF) is a reinforcement learning method that incorporates human feedback to enhance the learning efficiency and effectiveness of models. It is widely used in the field of artificial intelligence for optimizing and training agents."
   },
   {
     "en": "zero-shot",
@@ -1301,7 +1681,9 @@
       "zero shot",
       "zero-shot learning"
     ],
-    "type": "concept"
+    "type": "concept",
+    "definition_zh": "零样本学习是一种机器学习方法，旨在在没有训练样本的情况下进行分类或预测。它通常依赖于模型的泛化能力和已有知识的迁移。",
+    "definition_en": "Zero-shot learning is a machine learning method aimed at classification or prediction without training samples. It typically relies on the model's generalization ability and the transfer of existing knowledge."
   },
   {
     "en": "few-shot",
@@ -1310,19 +1692,25 @@
       "few shot",
       "few-shot learning"
     ],
-    "type": "concept"
+    "type": "concept",
+    "definition_zh": "少样本学习是一种机器学习方法，旨在通过极少的样本数据进行有效的模型训练。它在数据稀缺的情况下，依然能够实现良好的学习效果。",
+    "definition_en": "Few-shot learning is a machine learning method aimed at effective model training with very few sample data. It achieves good learning performance even in data-scarce situations."
   },
   {
     "en": "Obsidian",
     "zh": null,
     "aliases": [],
-    "type": "product"
+    "type": "product",
+    "definition_zh": "Obsidian 是一个开源的知识管理平台，支持多种插件和数据库功能，适合个人和团队使用。它提供了灵活的框架和模型来组织和可视化信息。",
+    "definition_en": "Obsidian is an open-source knowledge management platform that supports various plugins and database functionalities, suitable for both individuals and teams. It provides a flexible framework and models for organizing and visualizing information."
   },
   {
     "en": "Claude Code",
     "zh": null,
     "aliases": [],
-    "type": "product"
+    "type": "product",
+    "definition_zh": "Claude Code 是一种基于人工智能的产品，主要用于代码生成和处理。它可以被视为一个平台，提供多种解决方案以满足不同的需求。",
+    "definition_en": "Claude Code is an AI-based product primarily used for code generation and processing. It can be seen as a platform offering various solutions to meet different needs."
   },
   {
     "en": "Claude Skills",
@@ -1330,25 +1718,33 @@
     "aliases": [
       "skills"
     ],
-    "type": "concept"
+    "type": "concept",
+    "definition_zh": "Claude Skills 是一种基于人工智能的聊天平台，旨在提供智能对话和任务处理能力。它利用大型语言模型（LLM）和插件来增强用户体验。",
+    "definition_en": "Claude Skills is an AI-based chat platform designed to provide intelligent conversation and task handling capabilities. It leverages large language models (LLMs) and plugins to enhance user experience."
   },
   {
     "en": "activation",
     "zh": "激活",
     "aliases": [],
-    "type": "concept"
+    "type": "concept",
+    "definition_zh": "激活是指在神经网络中通过激活函数对输入信号进行变换，以产生输出信号的过程。",
+    "definition_en": "Activation refers to the process in a neural network where an activation function transforms the input signal to produce an output signal."
   },
   {
     "en": "adaptive learning",
     "zh": "自适应学习",
     "aliases": [],
-    "type": "concept"
+    "type": "concept",
+    "definition_zh": "自适应学习是一种教育方法，通过实时分析学生的学习进度和需求，动态调整学习内容和策略。",
+    "definition_en": "Adaptive learning is an educational method that dynamically adjusts learning content and strategies based on real-time analysis of students' learning progress and needs."
   },
   {
     "en": "array",
     "zh": "数组",
     "aliases": [],
-    "type": "concept"
+    "type": "concept",
+    "definition_zh": "数组是一种数据结构，用于存储多个相同类型的元素。",
+    "definition_en": "An array is a data structure used to store multiple elements of the same type."
   },
   {
     "en": "attention",
@@ -1356,355 +1752,473 @@
     "aliases": [
       "attention mechanism"
     ],
-    "type": "concept"
+    "type": "concept",
+    "definition_zh": "注意力机制是一种模仿人类注意力的技术，用于提高神经网络在处理信息时的效率和效果。",
+    "definition_en": "Attention mechanism is a technique that mimics human attention to enhance the efficiency and effectiveness of neural networks in processing information."
   },
   {
     "en": "audio",
     "zh": "音频",
     "aliases": [],
-    "type": "concept"
+    "type": "concept",
+    "definition_zh": "音频是指通过声波传播的声音信号，可以用于音乐、语音和其他声音的记录与处理。",
+    "definition_en": "Audio refers to sound signals transmitted through sound waves, which can be used for the recording and processing of music, speech, and other sounds."
   },
   {
     "en": "authentication",
     "zh": "身份验证",
     "aliases": [],
-    "type": "concept"
+    "type": "concept",
+    "definition_zh": "身份验证是确认用户身份的过程，确保只有授权用户能够访问系统或数据。",
+    "definition_en": "Authentication is the process of verifying a user's identity to ensure that only authorized users can access the system or data."
   },
   {
     "en": "automation",
     "zh": "自动化",
     "aliases": [],
-    "type": "concept"
+    "type": "concept",
+    "definition_zh": "自动化是指使用技术来执行任务或过程，以减少人工干预和提高效率。",
+    "definition_en": "Automation refers to the use of technology to perform tasks or processes, reducing human intervention and increasing efficiency."
   },
   {
     "en": "chart",
     "zh": "图表",
     "aliases": [],
-    "type": "concept"
+    "type": "concept",
+    "definition_zh": "图表是一种可视化数据的方式，通常用于展示数据之间的关系和趋势。",
+    "definition_en": "A chart is a method of visualizing data, typically used to display relationships and trends between data points."
   },
   {
     "en": "code",
     "zh": "代码",
     "aliases": [],
-    "type": "concept"
+    "type": "concept",
+    "definition_zh": "代码是计算机程序的书写形式，用于指示计算机执行特定任务。",
+    "definition_en": "Code is the written form of a computer program used to instruct a computer to perform specific tasks."
   },
   {
     "en": "collaboration",
     "zh": "协作",
     "aliases": [],
-    "type": "concept"
+    "type": "concept",
+    "definition_zh": "协作是指多个个体或团队共同努力以实现共同目标的过程。",
+    "definition_en": "Collaboration refers to the process where multiple individuals or teams work together to achieve a common goal."
   },
   {
     "en": "company",
     "zh": "公司",
     "aliases": [],
-    "type": "concept"
+    "type": "concept",
+    "definition_zh": "公司是一个由多个个人或组织组成的经济实体，旨在提供商品或服务以获取利润。",
+    "definition_en": "A company is an economic entity composed of multiple individuals or organizations, aimed at providing goods or services for profit."
   },
   {
     "en": "computer vision",
     "zh": "计算机视觉",
     "aliases": [],
-    "type": "concept"
+    "type": "concept",
+    "definition_zh": "计算机视觉是使计算机能够理解和解释视觉信息的技术和领域。",
+    "definition_en": "Computer vision is the technology and field that enables computers to understand and interpret visual information."
   },
   {
     "en": "container",
     "zh": "容器",
     "aliases": [],
-    "type": "concept"
+    "type": "concept",
+    "definition_zh": "容器是一种轻量级的虚拟化技术，用于打包和运行应用程序及其依赖项。",
+    "definition_en": "A container is a lightweight virtualization technology used to package and run applications along with their dependencies."
   },
   {
     "en": "contextualization",
     "zh": "语境化",
     "aliases": [],
-    "type": "concept"
+    "type": "concept",
+    "definition_zh": "语境化是指在特定环境或背景下理解和解释信息的过程。",
+    "definition_en": "Contextualization refers to the process of understanding and interpreting information within a specific environment or context."
   },
   {
     "en": "curve",
     "zh": "曲线",
     "aliases": [],
-    "type": "concept"
+    "type": "concept",
+    "definition_zh": "曲线是表示数据变化趋势的图形，常用于分析和可视化数据。",
+    "definition_en": "A curve is a graphical representation of data trends, commonly used for data analysis and visualization."
   },
   {
     "en": "customization",
     "zh": "定制化",
     "aliases": [],
-    "type": "concept"
+    "type": "concept",
+    "definition_zh": "定制化是指根据用户的特定需求和偏好调整产品或服务的过程。",
+    "definition_en": "Customization refers to the process of adjusting products or services according to the specific needs and preferences of users."
   },
   {
     "en": "dashboard",
     "zh": "仪表板",
     "aliases": [],
-    "type": "concept"
+    "type": "concept",
+    "definition_zh": "仪表板是一个可视化界面，用于展示关键性能指标和数据分析结果。",
+    "definition_en": "A dashboard is a visual interface used to display key performance indicators and data analysis results."
   },
   {
     "en": "data visualization",
     "zh": "数据可视化",
     "aliases": [],
-    "type": "concept"
+    "type": "concept",
+    "definition_zh": "数据可视化是将数据以图形或图像的形式呈现，以便更容易理解和分析。",
+    "definition_en": "Data visualization is the presentation of data in graphical or visual formats to facilitate easier understanding and analysis."
   },
   {
     "en": "degree",
     "zh": "度",
     "aliases": [],
-    "type": "concept"
+    "type": "concept",
+    "definition_zh": "在机器学习中，度通常指的是多项式或函数的最高幂次。",
+    "definition_en": "In machine learning, degree typically refers to the highest power of a polynomial or function."
   },
   {
     "en": "dialogue",
     "zh": "对话",
     "aliases": [],
-    "type": "concept"
+    "type": "concept",
+    "definition_zh": "对话是指人与人之间或人与机器之间的交流过程，通常涉及信息的交换和理解。",
+    "definition_en": "Dialogue refers to the communication process between people or between a person and a machine, typically involving the exchange and understanding of information."
   },
   {
     "en": "dimensionality",
     "zh": "维度",
     "aliases": [],
-    "type": "concept"
+    "type": "concept",
+    "definition_zh": "维度是指在数据集中用于表示特征或变量的数量。",
+    "definition_en": "Dimensionality refers to the number of features or variables represented in a dataset."
   },
   {
     "en": "embedding layer",
     "zh": "嵌入层",
     "aliases": [],
-    "type": "concept"
+    "type": "concept",
+    "definition_zh": "嵌入层是神经网络中的一种层，用于将离散的输入数据（如单词或类别）转换为连续的向量表示。",
+    "definition_en": "The embedding layer is a layer in a neural network that converts discrete input data (such as words or categories) into continuous vector representations."
   },
   {
     "en": "feature engineering",
     "zh": "特征工程",
     "aliases": [],
-    "type": "concept"
+    "type": "concept",
+    "definition_zh": "特征工程是机器学习中用于选择、修改或创建特征以提高模型性能的过程。",
+    "definition_en": "Feature engineering is the process in machine learning of selecting, modifying, or creating features to improve model performance."
   },
   {
     "en": "forecasting",
     "zh": "预测",
     "aliases": [],
-    "type": "concept"
+    "type": "concept",
+    "definition_zh": "预测是利用历史数据和模型来推测未来事件或趋势的过程。",
+    "definition_en": "Forecasting is the process of using historical data and models to infer future events or trends."
   },
   {
     "en": "geocoding",
     "zh": "地理编码",
     "aliases": [],
-    "type": "concept"
+    "type": "concept",
+    "definition_zh": "地理编码是将地址或地理位置转换为地理坐标（如经纬度）的过程。",
+    "definition_en": "Geocoding is the process of converting an address or geographic location into geographic coordinates (such as latitude and longitude)."
   },
   {
     "en": "gradient descent",
     "zh": "梯度下降",
     "aliases": [],
-    "type": "concept"
+    "type": "concept",
+    "definition_zh": "梯度下降是一种优化算法，用于通过迭代更新模型参数以最小化损失函数。",
+    "definition_en": "Gradient descent is an optimization algorithm used to iteratively update model parameters to minimize the loss function."
   },
   {
     "en": "inference engine",
     "zh": "推理引擎",
     "aliases": [],
-    "type": "concept"
+    "type": "concept",
+    "definition_zh": "推理引擎是用于从知识库中推导新信息的系统或程序。",
+    "definition_en": "An inference engine is a system or program used to derive new information from a knowledge base."
   },
   {
     "en": "integration",
     "zh": "集成",
     "aliases": [],
-    "type": "concept"
+    "type": "concept",
+    "definition_zh": "集成是将不同的系统、组件或数据源组合在一起，以实现更高效的工作流程和数据处理。",
+    "definition_en": "Integration is the combination of different systems, components, or data sources to achieve more efficient workflows and data processing."
   },
   {
     "en": "interaction",
     "zh": "交互",
     "aliases": [],
-    "type": "concept"
+    "type": "concept",
+    "definition_zh": "交互是指用户与系统之间的相互作用和沟通方式。",
+    "definition_en": "Interaction refers to the mutual action and communication between users and systems."
   },
   {
     "en": "interaction terms",
     "zh": "交互项",
     "aliases": [],
-    "type": "concept"
+    "type": "concept",
+    "definition_zh": "交互项是指在回归分析中用于表示两个或多个自变量之间相互作用的变量。",
+    "definition_en": "Interaction terms refer to variables used in regression analysis to represent the interaction between two or more independent variables."
   },
   {
     "en": "kernel trick",
     "zh": "核技巧",
     "aliases": [],
-    "type": "concept"
+    "type": "concept",
+    "definition_zh": "核技巧是一种在支持向量机等算法中使用的技术，通过将数据映射到高维空间来提高分类性能。",
+    "definition_en": "The kernel trick is a technique used in algorithms like support vector machines that improves classification performance by mapping data to a high-dimensional space."
   },
   {
     "en": "labeling",
     "zh": "标注",
     "aliases": [],
-    "type": "concept"
+    "type": "concept",
+    "definition_zh": "标注是指为数据集中的数据项分配标签，以便于机器学习模型的训练和评估。",
+    "definition_en": "Labeling refers to the process of assigning labels to data items in a dataset for the purpose of training and evaluating machine learning models."
   },
   {
     "en": "library",
     "zh": "库",
     "aliases": [],
-    "type": "concept"
+    "type": "concept",
+    "definition_zh": "在计算机编程中，库是一个包含预先编写的代码集合，可以被程序调用以实现特定功能的工具。",
+    "definition_en": "In computer programming, a library is a collection of pre-written code that can be called by programs to perform specific functions."
   },
   {
     "en": "linear classification",
     "zh": "线性分类",
     "aliases": [],
-    "type": "concept"
+    "type": "concept",
+    "definition_zh": "线性分类是一种通过线性决策边界将数据点分为不同类别的机器学习方法。",
+    "definition_en": "Linear classification is a machine learning method that divides data points into different categories using a linear decision boundary."
   },
   {
     "en": "linear interpolation",
     "zh": "线性插值",
     "aliases": [],
-    "type": "concept"
+    "type": "concept",
+    "definition_zh": "线性插值是一种通过已知数据点之间的线性关系来估算未知值的数学方法。",
+    "definition_en": "Linear interpolation is a mathematical method for estimating unknown values based on the linear relationship between known data points."
   },
   {
     "en": "linear programming",
     "zh": "线性规划",
     "aliases": [],
-    "type": "concept"
+    "type": "concept",
+    "definition_zh": "线性规划是一种数学优化方法，用于在给定约束条件下最大化或最小化线性目标函数。",
+    "definition_en": "Linear programming is a mathematical optimization method used to maximize or minimize a linear objective function under given constraints."
   },
   {
     "en": "linear regression",
     "zh": "线性回归",
     "aliases": [],
-    "type": "concept"
+    "type": "concept",
+    "definition_zh": "线性回归是一种统计方法，用于建模变量之间的线性关系。",
+    "definition_en": "Linear regression is a statistical method used to model the linear relationship between variables."
   },
   {
     "en": "linear transformation",
     "zh": "线性变换",
     "aliases": [],
-    "type": "concept"
+    "type": "concept",
+    "definition_zh": "线性变换是指将一个向量空间中的向量通过线性函数映射到另一个向量空间的过程。",
+    "definition_en": "A linear transformation refers to the process of mapping a vector from one vector space to another through a linear function."
   },
   {
     "en": "machine learning",
     "zh": "机器学习",
     "aliases": [],
-    "type": "concept"
+    "type": "concept",
+    "definition_zh": "机器学习是一种使计算机系统通过经验自动改进其性能的技术。",
+    "definition_en": "Machine learning is a technique that enables computer systems to automatically improve their performance through experience."
   },
   {
     "en": "matrix multiplication",
     "zh": "矩阵乘法",
     "aliases": [],
-    "type": "concept"
+    "type": "concept",
+    "definition_zh": "矩阵乘法是线性代数中的一种运算，用于计算两个矩阵的乘积。",
+    "definition_en": "Matrix multiplication is an operation in linear algebra used to compute the product of two matrices."
   },
   {
     "en": "module",
     "zh": "模块",
     "aliases": [],
-    "type": "concept"
+    "type": "concept",
+    "definition_zh": "模块是一个独立的组件，可以在软件系统中重复使用，通常用于组织代码和功能。",
+    "definition_en": "A module is an independent component that can be reused in a software system, typically used to organize code and functionality."
   },
   {
     "en": "network",
     "zh": "网络",
     "aliases": [],
-    "type": "concept"
+    "type": "concept",
+    "definition_zh": "网络是指多个计算机或设备通过通信协议相互连接，以便共享资源和信息的系统。",
+    "definition_en": "A network is a system in which multiple computers or devices are interconnected via communication protocols to share resources and information."
   },
   {
     "en": "plot",
     "zh": "绘图",
     "aliases": [],
-    "type": "concept"
+    "type": "concept",
+    "definition_zh": "绘图是将数据以视觉形式呈现的过程，以便于分析和理解。",
+    "definition_en": "Plotting is the process of presenting data in a visual format for analysis and understanding."
   },
   {
     "en": "polynomial regression",
     "zh": "多项式回归",
     "aliases": [],
-    "type": "concept"
+    "type": "concept",
+    "definition_zh": "多项式回归是一种用于建模变量之间关系的回归分析方法，通过使用多项式函数来拟合数据。",
+    "definition_en": "Polynomial regression is a regression analysis method used to model the relationship between variables by fitting data with polynomial functions."
   },
   {
     "en": "product",
     "zh": "产品",
     "aliases": [],
-    "type": "concept"
+    "type": "concept",
+    "definition_zh": "产品是为满足用户需求而开发的物品或服务。",
+    "definition_en": "A product is an item or service developed to meet user needs."
   },
   {
     "en": "query",
     "zh": "查询",
     "aliases": [],
-    "type": "concept"
+    "type": "concept",
+    "definition_zh": "查询是指向数据库或信息系统请求特定数据的过程。",
+    "definition_en": "Query refers to the process of requesting specific data from a database or information system."
   },
   {
     "en": "real-time",
     "zh": "实时",
     "aliases": [],
-    "type": "concept"
+    "type": "concept",
+    "definition_zh": "实时是指在数据处理或信息传递中，能够即时响应和处理的能力。",
+    "definition_en": "Real-time refers to the ability to respond to and process data or information instantaneously."
   },
   {
     "en": "recognition",
     "zh": "识别",
     "aliases": [],
-    "type": "concept"
+    "type": "concept",
+    "definition_zh": "识别是指计算机系统通过分析数据来识别和分类对象或模式的过程。",
+    "definition_en": "Recognition refers to the process by which a computer system identifies and classifies objects or patterns by analyzing data."
   },
   {
     "en": "recommendation",
     "zh": "推荐",
     "aliases": [],
-    "type": "concept"
+    "type": "concept",
+    "definition_zh": "推荐是利用算法根据用户的历史行为和偏好来提供个性化内容或产品的过程。",
+    "definition_en": "Recommendation is the process of using algorithms to provide personalized content or products based on users' historical behavior and preferences."
   },
   {
     "en": "reinforcement learning",
     "zh": "强化学习",
     "aliases": [],
-    "type": "concept"
+    "type": "concept",
+    "definition_zh": "强化学习是一种机器学习方法，通过与环境互动来学习如何做出决策，以最大化累积奖励。",
+    "definition_en": "Reinforcement learning is a machine learning method that learns to make decisions through interaction with the environment to maximize cumulative rewards."
   },
   {
     "en": "repository",
     "zh": "代码库",
     "aliases": [],
-    "type": "concept"
+    "type": "concept",
+    "definition_zh": "代码库是存储和管理代码文件及其版本的地方，通常用于软件开发和协作。",
+    "definition_en": "A repository is a place for storing and managing code files and their versions, typically used for software development and collaboration."
   },
   {
     "en": "representation",
     "zh": "表示",
     "aliases": [],
-    "type": "concept"
+    "type": "concept",
+    "definition_zh": "在人工智能和机器学习中，表示是指用特定的方式来描述数据的特征或信息。",
+    "definition_en": "In artificial intelligence and machine learning, representation refers to the specific way of describing the features or information of data."
   },
   {
     "en": "robustness",
     "zh": "鲁棒性",
     "aliases": [],
-    "type": "concept"
+    "type": "concept",
+    "definition_zh": "鲁棒性是指系统在面对不确定性和变化时仍能保持性能的能力。",
+    "definition_en": "Robustness refers to the ability of a system to maintain performance in the face of uncertainty and changes."
   },
   {
     "en": "scaling",
     "zh": "扩展",
     "aliases": [],
-    "type": "concept"
+    "type": "concept",
+    "definition_zh": "扩展是指在计算资源或系统能力上增加以处理更大规模的数据或任务的过程。",
+    "definition_en": "Scaling refers to the process of increasing computational resources or system capacity to handle larger volumes of data or tasks."
   },
   {
     "en": "search engine",
     "zh": "搜索引擎",
     "aliases": [],
-    "type": "concept"
+    "type": "concept",
+    "definition_zh": "搜索引擎是一种用于在互联网上查找信息的系统，通过用户输入的查询词返回相关结果。",
+    "definition_en": "A search engine is a system used to find information on the internet, returning relevant results based on user-inputted query terms."
   },
   {
     "en": "service",
     "zh": "服务",
     "aliases": [],
-    "type": "concept"
+    "type": "concept",
+    "definition_zh": "服务是指为满足用户需求而提供的功能或支持。",
+    "definition_en": "Service refers to the functionality or support provided to meet user needs."
   },
   {
     "en": "similarity",
     "zh": "相似性",
     "aliases": [],
-    "type": "concept"
+    "type": "concept",
+    "definition_zh": "相似性是指两个或多个对象在某些特征或属性上的相似程度。",
+    "definition_en": "Similarity refers to the degree of resemblance between two or more objects in certain features or attributes."
   },
   {
     "en": "standardization",
     "zh": "标准化",
     "aliases": [],
-    "type": "concept"
+    "type": "concept",
+    "definition_zh": "标准化是指将不同的过程、产品或服务统一为一致的标准，以提高效率和可比性。",
+    "definition_en": "Standardization refers to unifying different processes, products, or services into consistent standards to improve efficiency and comparability."
   },
   {
     "en": "storage",
     "zh": "存储",
     "aliases": [],
-    "type": "concept"
+    "type": "concept",
+    "definition_zh": "存储是指保存和管理数据的过程和技术。",
+    "definition_en": "Storage refers to the process and technology of saving and managing data."
   },
   {
     "en": "support vector",
     "zh": "支持向量",
     "aliases": [],
-    "type": "concept"
+    "type": "concept",
+    "definition_zh": "支持向量是用于分类和回归分析的机器学习算法中的关键数据点。",
+    "definition_en": "Support vectors are key data points in machine learning algorithms used for classification and regression analysis."
   },
   {
     "en": "text",
     "zh": "文本",
     "aliases": [],
-    "type": "concept"
+    "type": "concept",
+    "definition_zh": "文本是由字符组成的信息，可以用于自然语言处理和机器学习任务。",
+    "definition_en": "Text is information composed of characters, which can be used for natural language processing and machine learning tasks."
   },
   {
     "en": "tokenization",
     "zh": "标记化",
     "aliases": [],
-    "type": "concept"
+    "type": "concept",
+    "definition_zh": "标记化是将文本分解为更小的单元（如单词或子词）的过程，以便于机器学习模型处理和理解。",
+    "definition_en": "Tokenization is the process of breaking down text into smaller units (such as words or subwords) to facilitate processing and understanding by machine learning models."
   },
   {
     "en": "tool",
@@ -1712,37 +2226,49 @@
     "aliases": [
       "tools"
     ],
-    "type": "concept"
+    "type": "concept",
+    "definition_zh": "工具是用于执行特定任务或解决问题的设备或软件。",
+    "definition_en": "A tool is a device or software used to perform specific tasks or solve problems."
   },
   {
     "en": "transformation",
     "zh": "变换",
     "aliases": [],
-    "type": "concept"
+    "type": "concept",
+    "definition_zh": "在机器学习中，变换指的是对数据进行处理以改变其形式或结构，从而提高模型的性能。",
+    "definition_en": "In machine learning, transformation refers to the processing of data to change its form or structure, thereby improving model performance."
   },
   {
     "en": "user profiling",
     "zh": "用户画像",
     "aliases": [],
-    "type": "concept"
+    "type": "concept",
+    "definition_zh": "用户画像是通过分析用户的行为、兴趣和特征来创建用户的详细描述，以便更好地满足其需求。",
+    "definition_en": "User profiling is the creation of a detailed description of a user by analyzing their behaviors, interests, and characteristics to better meet their needs."
   },
   {
     "en": "validation",
     "zh": "验证",
     "aliases": [],
-    "type": "concept"
+    "type": "concept",
+    "definition_zh": "验证是指在机器学习中评估模型性能的过程，以确保其在未见数据上的泛化能力。",
+    "definition_en": "Validation refers to the process of evaluating a model's performance in machine learning to ensure its generalization capability on unseen data."
   },
   {
     "en": "version control",
     "zh": "版本控制",
     "aliases": [],
-    "type": "concept"
+    "type": "concept",
+    "definition_zh": "版本控制是一种管理文档、代码或其他信息的变化的系统，允许用户跟踪和恢复历史版本。",
+    "definition_en": "Version control is a system for managing changes to documents, code, or other information, allowing users to track and restore historical versions."
   },
   {
     "en": "video",
     "zh": "视频",
     "aliases": [],
-    "type": "concept"
+    "type": "concept",
+    "definition_zh": "视频是一种通过连续播放图像和声音来传达信息的媒体形式。",
+    "definition_en": "Video is a media format that conveys information through the continuous playback of images and sound."
   },
   {
     "en": "API",
@@ -1751,7 +2277,9 @@
       "APIs",
       "api"
     ],
-    "type": "concept"
+    "type": "concept",
+    "definition_zh": "API（Application Programming Interface）是一种软件接口，允许不同的软件系统之间进行交互和数据交换。它们在构建和集成应用程序时起着关键作用。",
+    "definition_en": "API (Application Programming Interface) is a software interface that allows different software systems to interact and exchange data. It plays a critical role in building and integrating applications."
   },
   {
     "en": "Jupyter Notebook",
@@ -1760,6 +2288,8 @@
       "Jupyter",
       "Notebook"
     ],
-    "type": "concept"
+    "type": "concept",
+    "definition_zh": "Jupyter Notebook 是一个开源平台，广泛用于数据科学和机器学习的交互式计算。它支持多种编程语言，并提供可视化和数据处理的功能。",
+    "definition_en": "Jupyter Notebook is an open-source platform widely used for interactive computing in data science and machine learning. It supports multiple programming languages and provides visualization and data processing capabilities."
   }
 ]
