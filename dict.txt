@@ -96,8 +96,10 @@ accelerator 10 n
 activation 10 n
 adaptive learning 10 n
 agent 10 n
+ai 10 n
 algorithm 10 n
 alignment 10 n
+api 10 n
 api_key 10 n
 architecture 10 n
 array 10 n
@@ -257,7 +259,6 @@ scikit-learn 10 n
 seaborn 10 n
 search engine 10 n
 security 10 n
-self-attention 10 n
 sensor 10 n
 service 10 n
 similar_words 10 n
@@ -364,7 +365,6 @@ zero-shot learning 10 n
 对话 10 n
 对齐 10 n
 少样本 10 n
-少样本学习 10 n
 局部二值模式 10 n
 嵌入 10 n
 嵌入层 10 n
@@ -374,6 +374,7 @@ zero-shot learning 10 n
 幻觉 10 n
 幻觉问题 10 n
 库 10 n
+应用程序编程接口 10 n
 度 10 n
 建模 10 n
 开源 10 n
@@ -500,7 +501,6 @@ zero-shot learning 10 n
 阈值 10 n
 集成 10 n
 零样本 10 n
-零样本学习 10 n
 非结构化 10 n
 音频 10 n
 预处理 10 n

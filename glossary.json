@@ -166,7 +166,8 @@
     "zh": "人工智能",
     "aliases": [
       "人工智能",
-      "AI"
+      "AI",
+      "ai"
     ],
     "type": "concept"
   },
@@ -238,7 +239,8 @@
     "en": "agent",
     "zh": "代理",
     "aliases": [
-      "代理"
+      "代理",
+      "Agents"
     ],
     "type": "concept"
   },
@@ -719,12 +721,6 @@
     "type": "concept"
   },
   {
-    "en": "ChatGPT",
-    "zh": null,
-    "aliases": [],
-    "type": "product"
-  },
-  {
     "en": "cv2",
     "zh": null,
     "aliases": [],
@@ -1007,7 +1003,8 @@
     "en": "GPT",
     "zh": null,
     "aliases": [
-      "GPT-4"
+      "GPT-4",
+      "ChatGPT"
     ],
     "type": "product"
   },
@@ -1074,12 +1071,6 @@
     "type": "concept"
   },
   {
-    "en": "Agents",
-    "zh": null,
-    "aliases": [],
-    "type": "concept"
-  },
-  {
     "en": "matrix",
     "zh": "矩阵",
     "aliases": [],
@@ -1088,12 +1079,6 @@
   {
     "en": "TimeseriesData",
     "zh": "时间序列数据",
-    "aliases": [],
-    "type": "concept"
-  },
-  {
-    "en": "tools",
-    "zh": "工具",
     "aliases": [],
     "type": "concept"
   },
@@ -1113,14 +1098,6 @@
     "en": "api_key",
     "zh": "API密钥",
     "aliases": [],
-    "type": "concept"
-  },
-  {
-    "en": "API",
-    "zh": "API",
-    "aliases": [
-      "APIs"
-    ],
     "type": "concept"
   },
   {
@@ -1267,15 +1244,6 @@
     "type": "product"
   },
   {
-    "en": "attention mechanism",
-    "zh": "注意力机制",
-    "aliases": [
-      "attention",
-      "self-attention"
-    ],
-    "type": "concept"
-  },
-  {
     "en": "human in the loop",
     "zh": "人机协作",
     "aliases": [
@@ -1342,7 +1310,8 @@
     "en": "zero-shot",
     "zh": "零样本",
     "aliases": [
-      "zero shot"
+      "zero shot",
+      "zero-shot learning"
     ],
     "type": "concept"
   },
@@ -1350,7 +1319,8 @@
     "en": "few-shot",
     "zh": "少样本",
     "aliases": [
-      "few shot"
+      "few shot",
+      "few-shot learning"
     ],
     "type": "concept"
   },
@@ -1395,7 +1365,9 @@
   {
     "en": "attention",
     "zh": "注意力机制",
-    "aliases": [],
+    "aliases": [
+      "attention mechanism"
+    ],
     "type": "concept"
   },
   {
@@ -1509,12 +1481,6 @@
   {
     "en": "feature engineering",
     "zh": "特征工程",
-    "aliases": [],
-    "type": "concept"
-  },
-  {
-    "en": "few-shot learning",
-    "zh": "少样本学习",
     "aliases": [],
     "type": "concept"
   },
@@ -1755,7 +1721,9 @@
   {
     "en": "tool",
     "zh": "工具",
-    "aliases": [],
+    "aliases": [
+      "tools"
+    ],
     "type": "concept"
   },
   {
@@ -1795,9 +1763,12 @@
     "type": "concept"
   },
   {
-    "en": "zero-shot learning",
-    "zh": "零样本学习",
-    "aliases": [],
+    "en": "API",
+    "zh": "应用程序编程接口",
+    "aliases": [
+      "APIs",
+      "api"
+    ],
     "type": "concept"
   }
 ]
