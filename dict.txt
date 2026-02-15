@@ -1,419 +1,513 @@
-model 100 nz
-模型 100 n
-模型 50 n
-建模 50 n
-framework 100 nz
-框架 100 n
-框架 50 n
-optimization 100 nz
-优化 100 n
-优化 50 n
-training 100 nz
-训练 100 n
-训练 50 n
-database 100 nz
-数据库 100 n
-数据库 50 n
-image 100 nz
-图像 100 n
-图像 50 n
-classification 100 nz
-分类 100 n
-分类 50 n
-evaluation 100 nz
-评估 100 n
-评估 50 n
-architecture 100 nz
-架构 100 n
-架构 50 n
-platform 100 nz
-平台 100 n
-平台 50 n
-performance 100 nz
-性能 100 n
-性能 50 n
-prediction 100 nz
-预测 100 n
-预测 50 n
-algorithm 100 nz
-算法 100 n
-算法 50 n
-solution 100 nz
-解决方案 100 n
-解决方案 50 n
-方案 50 n
-intelligence 100 nz
-智能 100 n
-智能 50 n
-detection 100 nz
-检测 100 n
-检测 50 n
-chat 100 nz
-聊天 100 n
-聊天 50 n
-voice 100 nz
-语音 100 n
-语音 50 n
-visualization 100 nz
-可视化 100 n
-可视化 50 n
-retrieval 100 nz
-检索 100 n
-检索 50 n
-artificial intelligence 100 nz
-人工智能 100 n
-人工智能 50 n
-robotics 100 nz
-机器人 100 n
-机器人 50 n
-pattern 100 nz
-模式 100 n
-模式 50 n
-open source 100 nz
-开源 100 n
-开源 50 n
-deep learning 100 nz
-深度学习 100 n
-深度 50 n
-engine 100 nz
-引擎 100 n
-引擎 50 n
-data processing 100 nz
-数据处理 100 n
-数据处理 50 n
-security 100 nz
-安全性 100 n
-安全性 50 n
-monitoring 100 nz
-监控 100 n
-监控 50 n
-agent 100 nz
-代理 100 n
-代理 50 n
-vision 100 nz
-视觉 100 n
-视觉 50 n
-vector 100 nz
-向量 100 n
-向量 50 n
-protocol 100 nz
-协议 100 n
-协议 50 n
-component 100 nz
-组件 100 n
-组件 50 n
-preprocessing 100 nz
-预处理 100 n
-预处理 50 n
-modal 100 nz
-模态 100 n
-模态 50 n
-interpolation 100 nz
-插值 100 n
-插值 50 n
-indexing 100 nz
-索引 100 n
-索引 50 n
-graph 100 nz
-图形 100 n
-图形 50 n
-label 100 nz
-标签 100 n
-标签 50 n
-数据标注 50 n
-标注 50 n
-labeling 50 n
-labelling 50 n
-localization 100 nz
-定位 100 n
-定位 50 n
-linear 100 nz
-线性 100 n
-线性 50 n
-probability 100 nz
-概率 100 n
-概率 50 n
-weight 100 nz
-权重 100 n
-权重 50 n
-distance 100 nz
-距离 100 n
-accelerator 100 nz
-加速器 100 n
-normalization 100 nz
-标准化 100 n
-plugin 100 nz
-插件 100 n
-variance 100 nz
-方差 100 n
-complexity 100 nz
-复杂度 100 n
-personalization 100 nz
-个性化 100 n
-stability 100 nz
-稳定性 100 n
-metric 100 nz
-指标 100 n
-data type 100 nz
-数据类型 100 n
-data structure 100 nz
-数据结构 100 n
-uncertainty 100 nz
-不确定性 100 n
-regularization 100 nz
-正则 100 n
-data source 100 nz
-数据源 100 n
-dimension 100 nz
-维度 100 n
-ethics 100 nz
-伦理 100 n
-neural network 100 nz
-神经网络 100 n
-fine-tuning 100 nz
-微调 100 n
-intention 100 nz
-意图 100 n
-feature extraction 100 nz
-特征提取 100 n
-data format 100 nz
-数据格式 100 n
-covariance 100 nz
-协方差 100 n
-threshold 100 nz
-阈值 100 n
-Gaussian 100 nz
-高斯 100 n
-mean 100 nz
-均值 100 n
-pipeline 100 nz
-管道 100 n
-information retrieval 100 nz
-信息检索 100 n
-clustering 100 nz
-聚类 100 n
-residual 100 nz
-残差 100 n
-image processing 100 nz
-图像处理 100 n
-computational resources 100 nz
-计算资源 100 n
-character recognition 100 nz
-字符识别 100 n
-sensor 100 nz
-传感器 100 n
-gradient 100 nz
-梯度 100 n
-data center 100 nz
-数据中心 100 n
-scalability 100 nz
-可扩展性 100 n
-encryption 100 nz
-加密 100 n
-classifier 100 nz
-分类器 100 n
-streaming 100 nz
-流式 100 n
-use case 100 nz
-用例 100 n
-loss 100 nz
-损失 100 n
-statistics 100 nz
-统计学 100 n
-association 100 nz
-关联 100 n
-n8n 100 nz
-Azure 100 nz
-Google 100 nz
-OpenAI 100 nz
-Microsoft 100 nz
-AWS 100 nz
-LLM 100 nz
-大语言模型 100 n
-大型语言模型 50 n
-Codex 100 nz
-codex 50 n
-Docker 100 nz
-docker 50 n
-OCR 100 nz
-光学字符识别 100 n
-MCP 100 nz
-pandas 100 nz
-Cloud 100 nz
-云 100 n
-RAG 100 nz
-DataFrame 100 nz
-数据框 100 n
-GPU 100 nz
-图形处理单元 100 n
-ChatGPT 100 nz
-cv2 100 nz
-LangChain 100 nz
-sklearn 100 nz
-SQL 100 nz
-结构化查询语言 100 n
-sql 50 n
-PostgreSQL 100 nz
-Claude 100 nz
-克劳德 100 n
-Regression 100 nz
-回归 100 n
-numpy 100 nz
-GitHub 100 nz
-SharePoint 100 nz
-Webhook 100 nz
-Trigger 100 nz
-MQTT 100 nz
-prompt 100 nz
-提示 100 n
-Supabase 100 nz
-TTS 100 nz
-文本转语音 100 n
-Nominatim 100 nz
-geopy 100 nz
-torch 100 nz
-Pydantic 100 nz
-Notebook 100 nz
-笔记本 100 n
-LangGraph 100 nz
-tokenizer 100 nz
-分词器 100 n
-Chatbot 100 nz
-聊天机器人 100 n
-Bot 50 n
-NLP 100 nz
-自然语言处理 100 n
-similar_words 100 nz
-相似词 100 n
-DeepSeek 100 nz
-深度求索 100 n
-Mistral 100 nz
-NVIDIA 100 nz
-PaddleOCR 100 nz
-Tesseract 100 nz
-pytesseract 50 n
-scikit-learn 100 nz
-transformers 100 nz
-LinearRegression 100 nz
-线性回归 100 n
-Kernel 100 nz
-核 100 n
-mpi4py 100 nz
-folium 100 nz
-Jupyter 100 nz
-open-webui 100 nz
-workflow 100 nz
-工作流 100 n
-minerU 100 nz
-olmocr 100 nz
-NotebookLM 100 nz
-RTX 100 nz
-embedding 100 nz
-嵌入 100 n
-embeddings 50 n
-向量嵌入 50 n
-GPT 100 nz
-GPT-4 50 n
-PyTorch 100 nz
-Flask 100 nz
-gcloud 100 nz
-Google Cloud 50 n
-Amazon 100 nz
-Anthropic 100 nz
-Suno 100 nz
-LSTM 100 nz
-长短期记忆 100 n
-Long Short-Term Memory 50 n
-Nadaraya-Watson 100 nz
-Nadaraya-Watson回归 50 n
-LDA 100 nz
-线性判别分析 100 n
-Linear Discriminant Analysis 50 n
-Agents 100 nz
-matrix 100 nz
-矩阵 100 n
-TimeseriesData 100 nz
-时间序列数据 100 n
-tools 100 nz
-工具 100 n
-unstructured 100 nz
-非结构化 100 n
-MLAI 100 nz
-api_key 100 nz
-API密钥 100 n
-APIs 100 nz
-API 100 n
-Tailscale 100 nz
-seaborn 100 nz
-PolynomialFeatures 100 nz
-LBP 100 nz
-局部二值模式 100 n
-Local Binary Patterns 50 n
-Context 100 nz
-Spline 100 nz
-样条 100 n
-mpi 100 nz
-Message Passing Interface 50 n
-Startmate 100 nz
-llama 100 nz
-hallucination 100 nz
-幻觉 100 n
-幻觉问题 50 n
-AI幻觉 50 n
-token 100 nz
-令牌 100 n
-tokens 50 n
-prompt engineering 100 nz
-提示工程 100 n
-提示词工程 50 n
-Prompt Engineering 50 n
-context window 100 nz
-上下文窗口 100 n
-上下文长度 50 n
-inference 100 nz
-推理 100 n
-模型推理 50 n
-multimodal 100 nz
-多模态 100 n
-多模态模型 50 n
-Hugging Face 100 nz
-HuggingFace 50 n
-huggingface 50 n
-Ollama 100 nz
-alignment 100 nz
-对齐 100 n
-AI对齐 50 n
-Gemini 100 nz
-Whisper 100 nz
-attention mechanism 100 nz
-注意力机制 100 n
-attention 50 n
-self-attention 50 n
-human in the loop 100 nz
-人机协作 100 n
-HITL 50 n
-人在回路 50 n
-Grok 100 nz
-BERT 100 nz
-diffusion model 100 nz
-扩散模型 100 n
-diffusion 50 n
-Stable Diffusion 100 nz
-SD 50 n
-OpenRouter 100 nz
-LangSmith 100 nz
-chain of thought 100 nz
-思维链 100 n
-CoT 50 n
-RLHF 100 nz
-人类反馈强化学习 100 n
-zero-shot 100 nz
-零样本 100 n
-zero shot 50 n
-few-shot 100 nz
-少样本 100 n
-few shot 50 n
-Obsidian 100 nz
-Claude Code 100 nz
-Claude Skills 100 nz
-skills 50 n
+AI 10 n
+AI对齐 10 n
+AI幻觉 10 n
+API 10 n
+APIs 10 n
+API密钥 10 n
+AWS 10 n
+Agents 10 n
+Amazon 10 n
+Anthropic 10 n
+Azure 10 n
+BERT 10 n
+Bot 10 n
+ChatGPT 10 n
+Chatbot 10 n
+Claude 10 n
+Claude Code 10 n
+Claude Skills 10 n
+Cloud 10 n
+CoT 10 n
+Codex 10 n
+Context 10 n
+DataFrame 10 n
+DeepSeek 10 n
+Docker 10 n
+Flask 10 n
+GPT 10 n
+GPT-4 10 n
+GPU 10 n
+Gaussian 10 n
+Gemini 10 n
+GitHub 10 n
+Google 10 n
+Google Cloud 10 n
+Grok 10 n
+HITL 10 n
+Hugging Face 10 n
+HuggingFace 10 n
+Jupyter 10 n
+Kernel 10 n
+LBP 10 n
+LDA 10 n
+LLM 10 n
+LSTM 10 n
+LangChain 10 n
+LangGraph 10 n
+LangSmith 10 n
+Linear Discriminant Analysis 10 n
+LinearRegression 10 n
+Local Binary Patterns 10 n
+Long Short-Term Memory 10 n
+MCP 10 n
+MLAI 10 n
+MQTT 10 n
+Message Passing Interface 10 n
+Microsoft 10 n
+Mistral 10 n
+NLP 10 n
+NVIDIA 10 n
+Nadaraya-Watson 10 n
+Nadaraya-Watson回归 10 n
+Nominatim 10 n
+Notebook 10 n
+NotebookLM 10 n
+OCR 10 n
+Obsidian 10 n
+Ollama 10 n
+OpenAI 10 n
+OpenRouter 10 n
+PaddleOCR 10 n
+PolynomialFeatures 10 n
+PostgreSQL 10 n
+Prompt Engineering 10 n
+PyTorch 10 n
+Pydantic 10 n
+RAG 10 n
+RLHF 10 n
+RTX 10 n
+Regression 10 n
+SD 10 n
+SQL 10 n
+SharePoint 10 n
+Spline 10 n
+Stable Diffusion 10 n
+Startmate 10 n
+Suno 10 n
+Supabase 10 n
+TTS 10 n
+Tailscale 10 n
+Tesseract 10 n
+TimeseriesData 10 n
+Trigger 10 n
+Webhook 10 n
+Whisper 10 n
+accelerator 10 n
+activation 10 n
+adaptive learning 10 n
+agent 10 n
+ai 10 n
+algorithm 10 n
+alignment 10 n
+api 10 n
+api_key 10 n
+architecture 10 n
+array 10 n
+artificial intelligence 10 n
+association 10 n
+attention 10 n
+attention mechanism 10 n
+audio 10 n
+authentication 10 n
+automation 10 n
+chain of thought 10 n
+character recognition 10 n
+chart 10 n
+chat 10 n
+classification 10 n
+classifier 10 n
+clustering 10 n
+code 10 n
+codex 10 n
+collaboration 10 n
+company 10 n
+complexity 10 n
+component 10 n
+computational resources 10 n
+computer vision 10 n
+container 10 n
+context window 10 n
+contextualization 10 n
+covariance 10 n
+curve 10 n
+customization 10 n
+cv2 10 n
+dashboard 10 n
+data center 10 n
+data format 10 n
+data processing 10 n
+data source 10 n
+data structure 10 n
+data type 10 n
+data visualization 10 n
+database 10 n
+deep learning 10 n
+degree 10 n
+detection 10 n
+dialogue 10 n
+diffusion 10 n
+diffusion model 10 n
+dimension 10 n
+dimensionality 10 n
+distance 10 n
+docker 10 n
+embedding 10 n
+embedding layer 10 n
+embeddings 10 n
+encryption 10 n
+engine 10 n
+ethics 10 n
+evaluation 10 n
+feature engineering 10 n
+feature extraction 10 n
+few shot 10 n
+few-shot 10 n
+few-shot learning 10 n
+fine-tuning 10 n
+folium 10 n
+forecasting 10 n
+framework 10 n
+gcloud 10 n
+geocoding 10 n
+geopy 10 n
+gradient 10 n
+gradient descent 10 n
+graph 10 n
+hallucination 10 n
+huggingface 10 n
+human in the loop 10 n
+image 10 n
+image processing 10 n
+indexing 10 n
+inference 10 n
+inference engine 10 n
+information retrieval 10 n
+integration 10 n
+intelligence 10 n
+intention 10 n
+interaction 10 n
+interaction terms 10 n
+interpolation 10 n
+kernel trick 10 n
+label 10 n
+labeling 10 n
+labelling 10 n
+library 10 n
+linear 10 n
+linear classification 10 n
+linear interpolation 10 n
+linear programming 10 n
+linear regression 10 n
+linear transformation 10 n
+llama 10 n
+localization 10 n
+loss 10 n
+machine learning 10 n
+matrix 10 n
+matrix multiplication 10 n
+mean 10 n
+metric 10 n
+minerU 10 n
+modal 10 n
+model 10 n
+module 10 n
+monitoring 10 n
+mpi 10 n
+mpi4py 10 n
+multimodal 10 n
+n8n 10 n
+network 10 n
+neural network 10 n
+normalization 10 n
+numpy 10 n
+olmocr 10 n
+open source 10 n
+open-webui 10 n
+optimization 10 n
+pandas 10 n
+pattern 10 n
+performance 10 n
+personalization 10 n
+pipeline 10 n
+platform 10 n
+plot 10 n
+plugin 10 n
+polynomial regression 10 n
+prediction 10 n
+preprocessing 10 n
+probability 10 n
+product 10 n
+prompt 10 n
+prompt engineering 10 n
+protocol 10 n
+pytesseract 10 n
+query 10 n
+real-time 10 n
+recognition 10 n
+recommendation 10 n
+regularization 10 n
+reinforcement learning 10 n
+repository 10 n
+representation 10 n
+residual 10 n
+retrieval 10 n
+robotics 10 n
+robustness 10 n
+scalability 10 n
+scaling 10 n
+scikit-learn 10 n
+seaborn 10 n
+search engine 10 n
+security 10 n
+self-attention 10 n
+sensor 10 n
+service 10 n
+similar_words 10 n
+similarity 10 n
+skills 10 n
+sklearn 10 n
+solution 10 n
+sql 10 n
+stability 10 n
+standardization 10 n
+statistics 10 n
+storage 10 n
+streaming 10 n
+support vector 10 n
+text 10 n
+threshold 10 n
+token 10 n
+tokenization 10 n
+tokenizer 10 n
+tokens 10 n
+tool 10 n
+tools 10 n
+torch 10 n
+training 10 n
+transformation 10 n
+transformers 10 n
+triggering 10 n
+uncertainty 10 n
+unstructured 10 n
+use case 10 n
+user profiling 10 n
+validation 10 n
+variance 10 n
+vector 10 n
+version control 10 n
+video 10 n
+vision 10 n
+visualization 10 n
+voice 10 n
+weight 10 n
+workflow 10 n
+zero shot 10 n
+zero-shot 10 n
+zero-shot learning 10 n
+上下文窗口 10 n
+上下文长度 10 n
+不确定性 10 n
+个性化 10 n
+云 10 n
+交互 10 n
+交互项 10 n
+产品 10 n
+人在回路 10 n
+人工智能 10 n
+人机协作 10 n
+人类反馈强化学习 10 n
+代理 10 n
+代码 10 n
+代码库 10 n
+令牌 10 n
+仪表板 10 n
+优化 10 n
+传感器 10 n
+伦理 10 n
+信息检索 10 n
+光学字符识别 10 n
+克劳德 10 n
+公司 10 n
+关联 10 n
+分类 10 n
+分类器 10 n
+分词器 10 n
+加密 10 n
+加速器 10 n
+协作 10 n
+协方差 10 n
+协议 10 n
+变换 10 n
+可扩展性 10 n
+可视化 10 n
+向量 10 n
+向量嵌入 10 n
+回归 10 n
+图像 10 n
+图像处理 10 n
+图形 10 n
+图形处理单元 10 n
+图表 10 n
+地理编码 10 n
+均值 10 n
+复杂度 10 n
+多模态 10 n
+多模态模型 10 n
+多项式回归 10 n
+大型语言模型 10 n
+大语言模型 10 n
+字符识别 10 n
+存储 10 n
+安全性 10 n
+定位 10 n
+定制化 10 n
+实时 10 n
+容器 10 n
+对话 10 n
+对齐 10 n
+少样本 10 n
+少样本学习 10 n
+局部二值模式 10 n
+嵌入 10 n
+嵌入层 10 n
+工作流 10 n
+工具 10 n
+平台 10 n
+幻觉 10 n
+幻觉问题 10 n
+库 10 n
+应用程序编程接口 10 n
+度 10 n
+建模 10 n
+开源 10 n
+引擎 10 n
+强化学习 10 n
+微调 10 n
+思维链 10 n
+性能 10 n
+意图 10 n
+扩展 10 n
+扩散模型 10 n
+指标 10 n
+损失 10 n
+推理 10 n
+推理引擎 10 n
+推荐 10 n
+提示 10 n
+提示工程 10 n
+提示词工程 10 n
+插件 10 n
+插值 10 n
+搜索引擎 10 n
+支持向量 10 n
+数据中心 10 n
+数据可视化 10 n
+数据处理 10 n
+数据库 10 n
+数据标注 10 n
+数据格式 10 n
+数据框 10 n
+数据源 10 n
+数据类型 10 n
+数据结构 10 n
+数组 10 n
+文本 10 n
+文本转语音 10 n
+方差 10 n
+方案 10 n
+时间序列数据 10 n
+智能 10 n
+曲线 10 n
+服务 10 n
+机器人 10 n
+机器学习 10 n
+权重 10 n
+架构 10 n
+查询 10 n
+标准化 10 n
+标注 10 n
+标签 10 n
+标记化 10 n
+样条 10 n
+核 10 n
+核技巧 10 n
+框架 10 n
+梯度 10 n
+梯度下降 10 n
+检测 10 n
+检索 10 n
+概率 10 n
+模块 10 n
+模型 10 n
+模型推理 10 n
+模式 10 n
+模态 10 n
+正则 10 n
+残差 10 n
+注意力机制 10 n
+流式 10 n
+深度 10 n
+深度学习 10 n
+深度求索 10 n
+激活 10 n
+版本控制 10 n
+特征工程 10 n
+特征提取 10 n
+用例 10 n
+用户画像 10 n
+监控 10 n
+相似性 10 n
+相似词 10 n
+矩阵 10 n
+矩阵乘法 10 n
+神经网络 10 n
+稳定性 10 n
+笔记本 10 n
+算法 10 n
+管道 10 n
+索引 10 n
+线性 10 n
+线性分类 10 n
+线性判别分析 10 n
+线性变换 10 n
+线性回归 10 n
+线性插值 10 n
+线性规划 10 n
+组件 10 n
+结构化查询语言 10 n
+绘图 10 n
+统计学 10 n
+维度 10 n
+网络 10 n
+聊天 10 n
+聊天机器人 10 n
+聚类 10 n
+自动化 10 n
+自然语言处理 10 n
+自适应学习 10 n
+表示 10 n
+视觉 10 n
+视频 10 n
+解决方案 10 n
+触发 10 n
+计算机视觉 10 n
+计算资源 10 n
+训练 10 n
+评估 10 n
+识别 10 n
+语境化 10 n
+语音 10 n
+距离 10 n
+身份验证 10 n
+长短期记忆 10 n
+阈值 10 n
+集成 10 n
+零样本 10 n
+零样本学习 10 n
+非结构化 10 n
+音频 10 n
+预处理 10 n
+预测 10 n
+验证 10 n
+高斯 10 n
+鲁棒性 10 n

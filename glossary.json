@@ -165,7 +165,8 @@
     "en": "artificial intelligence",
     "zh": "人工智能",
     "aliases": [
-      "人工智能"
+      "人工智能",
+      "AI"
     ],
     "type": "concept"
   },
@@ -1369,6 +1370,444 @@
     "aliases": [
       "skills"
     ],
+    "type": "concept"
+  },
+  {
+    "en": "activation",
+    "zh": "激活",
+    "aliases": [],
+    "type": "concept"
+  },
+  {
+    "en": "adaptive learning",
+    "zh": "自适应学习",
+    "aliases": [],
+    "type": "concept"
+  },
+  {
+    "en": "ai",
+    "zh": "人工智能",
+    "aliases": [],
+    "type": "concept"
+  },
+  {
+    "en": "api",
+    "zh": "应用程序编程接口",
+    "aliases": [],
+    "type": "concept"
+  },
+  {
+    "en": "array",
+    "zh": "数组",
+    "aliases": [],
+    "type": "concept"
+  },
+  {
+    "en": "attention",
+    "zh": "注意力机制",
+    "aliases": [],
+    "type": "concept"
+  },
+  {
+    "en": "audio",
+    "zh": "音频",
+    "aliases": [],
+    "type": "concept"
+  },
+  {
+    "en": "authentication",
+    "zh": "身份验证",
+    "aliases": [],
+    "type": "concept"
+  },
+  {
+    "en": "automation",
+    "zh": "自动化",
+    "aliases": [],
+    "type": "concept"
+  },
+  {
+    "en": "chart",
+    "zh": "图表",
+    "aliases": [],
+    "type": "concept"
+  },
+  {
+    "en": "code",
+    "zh": "代码",
+    "aliases": [],
+    "type": "concept"
+  },
+  {
+    "en": "collaboration",
+    "zh": "协作",
+    "aliases": [],
+    "type": "concept"
+  },
+  {
+    "en": "company",
+    "zh": "公司",
+    "aliases": [],
+    "type": "concept"
+  },
+  {
+    "en": "computer vision",
+    "zh": "计算机视觉",
+    "aliases": [],
+    "type": "concept"
+  },
+  {
+    "en": "container",
+    "zh": "容器",
+    "aliases": [],
+    "type": "concept"
+  },
+  {
+    "en": "contextualization",
+    "zh": "语境化",
+    "aliases": [],
+    "type": "concept"
+  },
+  {
+    "en": "curve",
+    "zh": "曲线",
+    "aliases": [],
+    "type": "concept"
+  },
+  {
+    "en": "customization",
+    "zh": "定制化",
+    "aliases": [],
+    "type": "concept"
+  },
+  {
+    "en": "dashboard",
+    "zh": "仪表板",
+    "aliases": [],
+    "type": "concept"
+  },
+  {
+    "en": "data visualization",
+    "zh": "数据可视化",
+    "aliases": [],
+    "type": "concept"
+  },
+  {
+    "en": "degree",
+    "zh": "度",
+    "aliases": [],
+    "type": "concept"
+  },
+  {
+    "en": "dialogue",
+    "zh": "对话",
+    "aliases": [],
+    "type": "concept"
+  },
+  {
+    "en": "dimensionality",
+    "zh": "维度",
+    "aliases": [],
+    "type": "concept"
+  },
+  {
+    "en": "embedding layer",
+    "zh": "嵌入层",
+    "aliases": [],
+    "type": "concept"
+  },
+  {
+    "en": "feature engineering",
+    "zh": "特征工程",
+    "aliases": [],
+    "type": "concept"
+  },
+  {
+    "en": "few-shot learning",
+    "zh": "少样本学习",
+    "aliases": [],
+    "type": "concept"
+  },
+  {
+    "en": "forecasting",
+    "zh": "预测",
+    "aliases": [],
+    "type": "concept"
+  },
+  {
+    "en": "geocoding",
+    "zh": "地理编码",
+    "aliases": [],
+    "type": "concept"
+  },
+  {
+    "en": "gradient descent",
+    "zh": "梯度下降",
+    "aliases": [],
+    "type": "concept"
+  },
+  {
+    "en": "inference engine",
+    "zh": "推理引擎",
+    "aliases": [],
+    "type": "concept"
+  },
+  {
+    "en": "integration",
+    "zh": "集成",
+    "aliases": [],
+    "type": "concept"
+  },
+  {
+    "en": "interaction",
+    "zh": "交互",
+    "aliases": [],
+    "type": "concept"
+  },
+  {
+    "en": "interaction terms",
+    "zh": "交互项",
+    "aliases": [],
+    "type": "concept"
+  },
+  {
+    "en": "kernel trick",
+    "zh": "核技巧",
+    "aliases": [],
+    "type": "concept"
+  },
+  {
+    "en": "labeling",
+    "zh": "标注",
+    "aliases": [],
+    "type": "concept"
+  },
+  {
+    "en": "library",
+    "zh": "库",
+    "aliases": [],
+    "type": "concept"
+  },
+  {
+    "en": "linear classification",
+    "zh": "线性分类",
+    "aliases": [],
+    "type": "concept"
+  },
+  {
+    "en": "linear interpolation",
+    "zh": "线性插值",
+    "aliases": [],
+    "type": "concept"
+  },
+  {
+    "en": "linear programming",
+    "zh": "线性规划",
+    "aliases": [],
+    "type": "concept"
+  },
+  {
+    "en": "linear regression",
+    "zh": "线性回归",
+    "aliases": [],
+    "type": "concept"
+  },
+  {
+    "en": "linear transformation",
+    "zh": "线性变换",
+    "aliases": [],
+    "type": "concept"
+  },
+  {
+    "en": "machine learning",
+    "zh": "机器学习",
+    "aliases": [],
+    "type": "concept"
+  },
+  {
+    "en": "matrix multiplication",
+    "zh": "矩阵乘法",
+    "aliases": [],
+    "type": "concept"
+  },
+  {
+    "en": "module",
+    "zh": "模块",
+    "aliases": [],
+    "type": "concept"
+  },
+  {
+    "en": "network",
+    "zh": "网络",
+    "aliases": [],
+    "type": "concept"
+  },
+  {
+    "en": "plot",
+    "zh": "绘图",
+    "aliases": [],
+    "type": "concept"
+  },
+  {
+    "en": "polynomial regression",
+    "zh": "多项式回归",
+    "aliases": [],
+    "type": "concept"
+  },
+  {
+    "en": "product",
+    "zh": "产品",
+    "aliases": [],
+    "type": "concept"
+  },
+  {
+    "en": "query",
+    "zh": "查询",
+    "aliases": [],
+    "type": "concept"
+  },
+  {
+    "en": "real-time",
+    "zh": "实时",
+    "aliases": [],
+    "type": "concept"
+  },
+  {
+    "en": "recognition",
+    "zh": "识别",
+    "aliases": [],
+    "type": "concept"
+  },
+  {
+    "en": "recommendation",
+    "zh": "推荐",
+    "aliases": [],
+    "type": "concept"
+  },
+  {
+    "en": "reinforcement learning",
+    "zh": "强化学习",
+    "aliases": [],
+    "type": "concept"
+  },
+  {
+    "en": "repository",
+    "zh": "代码库",
+    "aliases": [],
+    "type": "concept"
+  },
+  {
+    "en": "representation",
+    "zh": "表示",
+    "aliases": [],
+    "type": "concept"
+  },
+  {
+    "en": "robustness",
+    "zh": "鲁棒性",
+    "aliases": [],
+    "type": "concept"
+  },
+  {
+    "en": "scaling",
+    "zh": "扩展",
+    "aliases": [],
+    "type": "concept"
+  },
+  {
+    "en": "search engine",
+    "zh": "搜索引擎",
+    "aliases": [],
+    "type": "concept"
+  },
+  {
+    "en": "service",
+    "zh": "服务",
+    "aliases": [],
+    "type": "concept"
+  },
+  {
+    "en": "similarity",
+    "zh": "相似性",
+    "aliases": [],
+    "type": "concept"
+  },
+  {
+    "en": "standardization",
+    "zh": "标准化",
+    "aliases": [],
+    "type": "concept"
+  },
+  {
+    "en": "storage",
+    "zh": "存储",
+    "aliases": [],
+    "type": "concept"
+  },
+  {
+    "en": "support vector",
+    "zh": "支持向量",
+    "aliases": [],
+    "type": "concept"
+  },
+  {
+    "en": "text",
+    "zh": "文本",
+    "aliases": [],
+    "type": "concept"
+  },
+  {
+    "en": "tokenization",
+    "zh": "标记化",
+    "aliases": [],
+    "type": "concept"
+  },
+  {
+    "en": "tool",
+    "zh": "工具",
+    "aliases": [],
+    "type": "concept"
+  },
+  {
+    "en": "transformation",
+    "zh": "变换",
+    "aliases": [],
+    "type": "concept"
+  },
+  {
+    "en": "triggering",
+    "zh": "触发",
+    "aliases": [],
+    "type": "concept"
+  },
+  {
+    "en": "user profiling",
+    "zh": "用户画像",
+    "aliases": [],
+    "type": "concept"
+  },
+  {
+    "en": "validation",
+    "zh": "验证",
+    "aliases": [],
+    "type": "concept"
+  },
+  {
+    "en": "version control",
+    "zh": "版本控制",
+    "aliases": [],
+    "type": "concept"
+  },
+  {
+    "en": "video",
+    "zh": "视频",
+    "aliases": [],
+    "type": "concept"
+  },
+  {
+    "en": "zero-shot learning",
+    "zh": "零样本学习",
+    "aliases": [],
     "type": "concept"
   }
 ]

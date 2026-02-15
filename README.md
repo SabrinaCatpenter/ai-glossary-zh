@@ -73,11 +73,11 @@ print(lookup.get("大语言模型"))  # "LLM"
 
 ## Stats
 
-- Total entries: 202
-- Concepts: 140+
-- Frameworks: 15+
-- Products: 15+
-- Platforms/Companies: 20+
+- Total entries: 275
+- Concepts: 200+
+- Frameworks: 20+
+- Products: 20+
+- Platforms/Companies: 25+
 
 ## Contributing
 
