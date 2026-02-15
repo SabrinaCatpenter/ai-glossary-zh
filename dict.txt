@@ -37,6 +37,7 @@ HITL 10 n
 Hugging Face 10 n
 HuggingFace 10 n
 Jupyter 10 n
+Jupyter Notebook 10 n
 Kernel 10 n
 LBP 10 n
 LDA 10 n
@@ -285,7 +286,6 @@ torch 10 n
 training 10 n
 transformation 10 n
 transformers 10 n
-triggering 10 n
 uncertainty 10 n
 unstructured 10 n
 use case 10 n
@@ -460,7 +460,6 @@ zero-shot learning 10 n
 矩阵乘法 10 n
 神经网络 10 n
 稳定性 10 n
-笔记本 10 n
 算法 10 n
 管道 10 n
 索引 10 n
@@ -487,7 +486,6 @@ zero-shot learning 10 n
 视觉 10 n
 视频 10 n
 解决方案 10 n
-触发 10 n
 计算机视觉 10 n
 计算资源 10 n
 训练 10 n

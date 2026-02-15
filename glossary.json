@@ -843,12 +843,6 @@
     "type": "library"
   },
   {
-    "en": "Notebook",
-    "zh": "笔记本",
-    "aliases": [],
-    "type": "concept"
-  },
-  {
     "en": "LangGraph",
     "zh": null,
     "aliases": [],
@@ -947,12 +941,6 @@
     "zh": null,
     "aliases": [],
     "type": "framework"
-  },
-  {
-    "en": "Jupyter",
-    "zh": null,
-    "aliases": [],
-    "type": "platform"
   },
   {
     "en": "open-webui",
@@ -1733,12 +1721,6 @@
     "type": "concept"
   },
   {
-    "en": "triggering",
-    "zh": "触发",
-    "aliases": [],
-    "type": "concept"
-  },
-  {
     "en": "user profiling",
     "zh": "用户画像",
     "aliases": [],
@@ -1768,6 +1750,15 @@
     "aliases": [
       "APIs",
       "api"
+    ],
+    "type": "concept"
+  },
+  {
+    "en": "Jupyter Notebook",
+    "zh": null,
+    "aliases": [
+      "Jupyter",
+      "Notebook"
     ],
     "type": "concept"
   }
