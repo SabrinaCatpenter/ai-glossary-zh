@@ -96,10 +96,8 @@ accelerator 10 n
 activation 10 n
 adaptive learning 10 n
 agent 10 n
-ai 10 n
 algorithm 10 n
 alignment 10 n
-api 10 n
 api_key 10 n
 architecture 10 n
 array 10 n
@@ -376,7 +374,6 @@ zero-shot learning 10 n
 幻觉 10 n
 幻觉问题 10 n
 库 10 n
-应用程序编程接口 10 n
 度 10 n
 建模 10 n
 开源 10 n

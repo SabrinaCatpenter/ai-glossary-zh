@@ -1116,9 +1116,11 @@
     "type": "concept"
   },
   {
-    "en": "APIs",
+    "en": "API",
     "zh": "API",
-    "aliases": [],
+    "aliases": [
+      "APIs"
+    ],
     "type": "concept"
   },
   {
@@ -1381,18 +1383,6 @@
   {
     "en": "adaptive learning",
     "zh": "自适应学习",
-    "aliases": [],
-    "type": "concept"
-  },
-  {
-    "en": "ai",
-    "zh": "人工智能",
-    "aliases": [],
-    "type": "concept"
-  },
-  {
-    "en": "api",
-    "zh": "应用程序编程接口",
     "aliases": [],
     "type": "concept"
   },
